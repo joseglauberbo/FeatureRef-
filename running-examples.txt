@@ -1,0 +1,5 @@
+#Run topic model trainer
+organic -src /Users/woizumi/Repositories/okhttp -out /Users/woizumi/Repositories/okhttp/organicref -tm
+
+#Run SA with pre-trained topic model
+organic -src /Users/woizumi/Repositories/okhttp -out /Users/woizumi/Repositories/okhttp/organicref -alg SA -cmf /Users/woizumi/Repositories/okhttp/organicref/topics-model.gz

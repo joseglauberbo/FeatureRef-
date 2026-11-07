@@ -1,0 +1,10 @@
+package br.pucrio.organicref.clusterization.jaccard;
+
+import br.pucrio.organicref.model.entities.Type;
+
+public class JaccardClassElementsClustersDetectorFactory {
+	
+	public JaccardClassElementsClustersDetector createFor(Type type) {
+		return new JaccardClassElementsClustersDetector(type);
+	}
+}
