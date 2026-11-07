@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+<topic id='0' tokens='94.0000' document_entropy='2.1220' word-length='6.3000' coherence='-37.5403' uniform_dist='3.4346' corpus_dist='2.9822' eff_num_words='9.2234' token-doc-diff='0.0201' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.6386'>
+<word rank='1' count='17' prob='0.18085' cumulative='0.18085' docs='6' word-length='5.0000' coherence='0.0000' uniform_dist='0.7607' corpus_dist='0.5872' token-doc-diff='0.0071' exclusivity='0.9576'>found</word>
+<word rank='2' count='15' prob='0.15957' cumulative='0.34043' docs='7' word-length='5.0000' coherence='-0.1822' uniform_dist='0.6512' corpus_dist='0.5181' token-doc-diff='0.0021' exclusivity='0.9522'>param</word>
+<word rank='3' count='14' prob='0.14894' cumulative='0.48936' docs='7' word-length='9.0000' coherence='-0.3363' uniform_dist='0.5975' corpus_dist='0.4637' token-doc-diff='0.0013' exclusivity='0.4619'>exception</word>
+<word rank='4' count='9' prob='0.09574' cumulative='0.58511' docs='6' word-length='7.0000' coherence='-0.5593' uniform_dist='0.3418' corpus_dist='0.3109' token-doc-diff='0.0000' exclusivity='0.9228'>current</word>
+<word rank='5' count='7' prob='0.07447' cumulative='0.65957' docs='7' word-length='4.0000' coherence='-0.4052' uniform_dist='0.2471' corpus_dist='0.2418' token-doc-diff='0.0024' exclusivity='0.9029'>isvy</word>
+<word rank='6' count='7' prob='0.07447' cumulative='0.73404' docs='7' word-length='7.0000' coherence='-0.4052' uniform_dist='0.2471' corpus_dist='0.2418' token-doc-diff='0.0024' exclusivity='0.9029'>michael</word>
+<word rank='7' count='5' prob='0.05319' cumulative='0.78723' docs='5' word-length='6.0000' coherence='-1.0975' uniform_dist='0.1586' corpus_dist='0.0388' token-doc-diff='0.0017' exclusivity='0.1020'>author</word>
+<word rank='8' count='4' prob='0.04255' cumulative='0.82979' docs='4' word-length='5.0000' coherence='-0.9153' uniform_dist='0.1174' corpus_dist='0.1144' token-doc-diff='0.0014' exclusivity='0.2818'>dynex</word>
+<word rank='9' count='3' prob='0.03191' cumulative='0.86170' docs='3' word-length='8.0000' coherence='-1.6068' uniform_dist='0.0789' corpus_dist='0.1036' token-doc-diff='0.0010' exclusivity='0.7995'>starting</word>
+<word rank='10' count='2' prob='0.02128' cumulative='0.88298' docs='2' word-length='7.0000' coherence='-7.3097' uniform_dist='0.0440' corpus_dist='0.0424' token-doc-diff='0.0007' exclusivity='0.1021'>details</word>
+</topic>
+<topic id='1' tokens='3.0000' document_entropy='0.0000' word-length='0.8000' coherence='-91.2467' uniform_dist='5.2797' corpus_dist='6.6917' eff_num_words='1.8000' token-doc-diff='0.0144' rank_1_docs='0.0000' allocation_ratio='NaN' allocation_count='0.0000' exclusivity='0.1956'>
+<word rank='1' count='2' prob='0.66667' cumulative='0.66667' docs='1' word-length='4.0000' coherence='0.0000' uniform_dist='3.6738' corpus_dist='4.4611' token-doc-diff='0.0060' exclusivity='0.9851'>make</word>
+<word rank='2' count='1' prob='0.33333' cumulative='1.00000' docs='1' word-length='4.0000' coherence='0.0000' uniform_dist='1.6059' corpus_dist='2.2306' token-doc-diff='0.0084' exclusivity='0.9706'>load</word>
+</topic>
+<topic id='2' tokens='149.0000' document_entropy='2.8170' word-length='5.8000' coherence='-59.2161' uniform_dist='3.7960' corpus_dist='2.6849' eff_num_words='5.3742' token-doc-diff='0.0256' rank_1_docs='0.0500' allocation_ratio='0.0000' allocation_count='0.0500' exclusivity='0.7677'>
+<word rank='1' count='56' prob='0.37584' cumulative='0.37584' docs='20' word-length='6.0000' coherence='0.0000' uniform_dist='1.8557' corpus_dist='1.0090' token-doc-diff='0.0181' exclusivity='0.7240'>author</word>
+<word rank='2' count='15' prob='0.10067' cumulative='0.47651' docs='15' word-length='7.0000' coherence='-0.2876' uniform_dist='0.3645' corpus_dist='0.2805' token-doc-diff='0.0014' exclusivity='0.9265'>juergen</word>
+<word rank='3' count='14' prob='0.09396' cumulative='0.57047' docs='14' word-length='5.0000' coherence='-0.3566' uniform_dist='0.3337' corpus_dist='0.2618' token-doc-diff='0.0013' exclusivity='0.9217'>krebs</word>
+<word rank='4' count='13' prob='0.08725' cumulative='0.65772' docs='13' word-length='7.0000' coherence='-0.4307' uniform_dist='0.3034' corpus_dist='0.2306' token-doc-diff='0.0012' exclusivity='0.5597'>hoeller</word>
+<word rank='5' count='12' prob='0.08054' cumulative='0.73826' docs='12' word-length='3.0000' coherence='-0.5107' uniform_dist='0.2736' corpus_dist='0.2120' token-doc-diff='0.0011' exclusivity='0.5152'>ken</word>
+<word rank='6' count='10' prob='0.06711' cumulative='0.80537' docs='9' word-length='7.0000' coherence='-0.7983' uniform_dist='0.2158' corpus_dist='0.1870' token-doc-diff='0.0004' exclusivity='0.8937'>objects</word>
+<word rank='7' count='10' prob='0.06711' cumulative='0.87248' docs='10' word-length='6.0000' coherence='-0.9160' uniform_dist='0.2158' corpus_dist='0.1870' token-doc-diff='0.0009' exclusivity='0.8937'>domain</word>
+<word rank='8' count='5' prob='0.03356' cumulative='0.90604' docs='5' word-length='7.0000' coherence='-1.3858' uniform_dist='0.0846' corpus_dist='0.0935' token-doc-diff='0.0005' exclusivity='0.8078'>brannen</word>
+<word rank='9' count='5' prob='0.03356' cumulative='0.93960' docs='5' word-length='3.0000' coherence='-1.3858' uniform_dist='0.0846' corpus_dist='0.0935' token-doc-diff='0.0005' exclusivity='0.8078'>sam</word>
+<word rank='10' count='2' prob='0.01342' cumulative='0.95302' docs='2' word-length='7.0000' coherence='-8.0025' uniform_dist='0.0215' corpus_dist='0.0374' token-doc-diff='0.0002' exclusivity='0.6273'>allowed</word>
+</topic>
+<topic id='3' tokens='12.0000' document_entropy='0.6792' word-length='3.5000' coherence='-165.9050' uniform_dist='4.3765' corpus_dist='4.7470' eff_num_words='3.7895' token-doc-diff='0.0294' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.5159'>
+<word rank='1' count='5' prob='0.41667' cumulative='0.41667' docs='2' word-length='9.0000' coherence='0.0000' uniform_dist='2.1003' corpus_dist='2.2106' token-doc-diff='0.0061' exclusivity='0.9800'>validator</word>
+<word rank='2' count='3' prob='0.25000' cumulative='0.66667' docs='1' word-length='4.0000' coherence='-0.6915' uniform_dist='1.1325' corpus_dist='0.7679' token-doc-diff='0.0074' exclusivity='0.5478'>form</word>
+<word rank='3' count='1' prob='0.08333' cumulative='0.75000' docs='1' word-length='3.0000' coherence='-5.7029' uniform_dist='0.2859' corpus_dist='0.4421' token-doc-diff='0.0040' exclusivity='0.9078'>obj</word>
+<word rank='4' count='1' prob='0.08333' cumulative='0.83333' docs='1' word-length='8.0000' coherence='-5.7029' uniform_dist='0.2859' corpus_dist='0.4421' token-doc-diff='0.0040' exclusivity='0.9078'>validate</word>
+<word rank='5' count='1' prob='0.08333' cumulative='0.91667' docs='1' word-length='6.0000' coherence='-5.7029' uniform_dist='0.2859' corpus_dist='0.4421' token-doc-diff='0.0040' exclusivity='0.9078'>define</word>
+<word rank='6' count='1' prob='0.08333' cumulative='1.00000' docs='1' word-length='5.0000' coherence='-5.7029' uniform_dist='0.2859' corpus_dist='0.4421' token-doc-diff='0.0040' exclusivity='0.9078'>forms</word>
+</topic>
+<topic id='4' tokens='60.0000' document_entropy='1.8904' word-length='5.0000' coherence='-173.0709' uniform_dist='4.6857' corpus_dist='3.6795' eff_num_words='2.1378' token-doc-diff='0.0723' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.7082'>
+<word rank='1' count='40' prob='0.66667' cumulative='0.66667' docs='8' word-length='3.0000' coherence='0.0000' uniform_dist='3.6738' corpus_dist='2.4475' token-doc-diff='0.0365' exclusivity='0.9194'>add</word>
+<word rank='2' count='6' prob='0.10000' cumulative='0.76667' docs='6' word-length='7.0000' coherence='-0.4698' uniform_dist='0.3614' corpus_dist='0.3696' token-doc-diff='0.0119' exclusivity='0.9255'>poutsma</word>
+<word rank='3' count='6' prob='0.10000' cumulative='0.86667' docs='6' word-length='5.0000' coherence='-0.4698' uniform_dist='0.3614' corpus_dist='0.3696' token-doc-diff='0.0119' exclusivity='0.9255'>arjen</word>
+<word rank='4' count='2' prob='0.03333' cumulative='0.90000' docs='1' word-length='9.0000' coherence='-2.0765' uniform_dist='0.0838' corpus_dist='0.1232' token-doc-diff='0.0000' exclusivity='0.8057'>validated</word>
+<word rank='5' count='2' prob='0.03333' cumulative='0.93333' docs='2' word-length='7.0000' coherence='-1.3850' uniform_dist='0.0838' corpus_dist='0.1232' token-doc-diff='0.0040' exclusivity='0.8057'>content</word>
+<word rank='6' count='1' prob='0.01667' cumulative='0.95000' docs='1' word-length='5.0000' coherence='-6.3944' uniform_dist='0.0304' corpus_dist='0.0616' token-doc-diff='0.0020' exclusivity='0.6749'>fresh</word>
+<word rank='7' count='1' prob='0.01667' cumulative='0.96667' docs='1' word-length='7.0000' coherence='-5.7029' uniform_dist='0.0304' corpus_dist='0.0616' token-doc-diff='0.0020' exclusivity='0.6749'>created</word>
+<word rank='8' count='1' prob='0.01667' cumulative='0.98333' docs='1' word-length='2.0000' coherence='-6.3944' uniform_dist='0.0304' corpus_dist='0.0616' token-doc-diff='0.0020' exclusivity='0.6749'>nr</word>
+<word rank='9' count='1' prob='0.01667' cumulative='1.00000' docs='1' word-length='5.0000' coherence='-7.4919' uniform_dist='0.0304' corpus_dist='0.0616' token-doc-diff='0.0020' exclusivity='0.6749'>saved</word>
+</topic>
+<topic id='5' tokens='23.0000' document_entropy='0.6693' word-length='3.8000' coherence='-165.9050' uniform_dist='4.6885' corpus_dist='3.8787' eff_num_words='2.4155' token-doc-diff='0.0759' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.4320'>
+<word rank='1' count='14' prob='0.60870' cumulative='0.60870' docs='2' word-length='4.0000' coherence='0.0000' uniform_dist='3.2990' corpus_dist='2.1226' token-doc-diff='0.0298' exclusivity='0.4940'>type</word>
+<word rank='2' count='4' prob='0.17391' cumulative='0.78261' docs='1' word-length='6.0000' coherence='-0.6915' uniform_dist='0.7247' corpus_dist='0.8095' token-doc-diff='0.0008' exclusivity='0.9549'>visits</word>
+<word rank='3' count='2' prob='0.08696' cumulative='0.86957' docs='1' word-length='10.0000' coherence='-5.7029' uniform_dist='0.3021' corpus_dist='0.3695' token-doc-diff='0.0034' exclusivity='0.7310'>reflection</word>
+<word rank='4' count='1' prob='0.04348' cumulative='0.91304' docs='1' word-length='4.0000' coherence='-5.7029' uniform_dist='0.1209' corpus_dist='0.2024' token-doc-diff='0.0140' exclusivity='0.8413'>conf</word>
+<word rank='5' count='1' prob='0.04348' cumulative='0.95652' docs='1' word-length='8.0000' coherence='-5.7029' uniform_dist='0.1209' corpus_dist='0.1722' token-doc-diff='0.0140' exclusivity='0.4576'>messages</word>
+<word rank='6' count='1' prob='0.04348' cumulative='1.00000' docs='1' word-length='6.0000' coherence='-5.7029' uniform_dist='0.1209' corpus_dist='0.2024' token-doc-diff='0.0140' exclusivity='0.8413'>loader</word>
+</topic>
+<topic id='6' tokens='23.0000' document_entropy='1.3944' word-length='3.0000' coherence='-187.1884' uniform_dist='5.2131' corpus_dist='4.5945' eff_num_words='1.4493' token-doc-diff='0.0319' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.3772'>
+<word rank='1' count='19' prob='0.82609' cumulative='0.82609' docs='6' word-length='4.0000' coherence='0.0000' uniform_dist='4.7295' corpus_dist='3.8453' token-doc-diff='0.0090' exclusivity='0.9901'>link</word>
+<word rank='2' count='1' prob='0.04348' cumulative='0.86957' docs='1' word-length='6.0000' coherence='-1.7890' uniform_dist='0.1209' corpus_dist='0.2024' token-doc-diff='0.0057' exclusivity='0.8413'>starts</word>
+<word rank='3' count='1' prob='0.04348' cumulative='0.91304' docs='1' word-length='6.0000' coherence='-1.7890' uniform_dist='0.1209' corpus_dist='0.1722' token-doc-diff='0.0057' exclusivity='0.6415'>easily</word>
+<word rank='4' count='1' prob='0.04348' cumulative='0.95652' docs='1' word-length='8.0000' coherence='-5.7029' uniform_dist='0.1209' corpus_dist='0.1722' token-doc-diff='0.0057' exclusivity='0.4576'>messages</word>
+<word rank='5' count='1' prob='0.04348' cumulative='1.00000' docs='1' word-length='6.0000' coherence='-5.7029' uniform_dist='0.1209' corpus_dist='0.2024' token-doc-diff='0.0057' exclusivity='0.8413'>oliver</word>
+</topic>
+<topic id='7' tokens='43.0000' document_entropy='0.0000' word-length='7.8000' coherence='0.0000' uniform_dist='3.6276' corpus_dist='3.9847' eff_num_words='7.2510' token-doc-diff='0.0823' rank_1_docs='1.0000' allocation_ratio='0.0000' allocation_count='1.0000' exclusivity='0.8504'>
+<word rank='1' count='11' prob='0.25581' cumulative='0.25581' docs='1' word-length='11.0000' coherence='0.0000' uniform_dist='1.1647' corpus_dist='1.0307' token-doc-diff='0.0241' exclusivity='0.9693'>interceptor</word>
+<word rank='2' count='7' prob='0.16279' cumulative='0.41860' docs='1' word-length='8.0000' coherence='0.0000' uniform_dist='0.6676' corpus_dist='0.6559' token-doc-diff='0.0063' exclusivity='0.9526'>resolver</word>
+<word rank='3' count='7' prob='0.16279' cumulative='0.58140' docs='1' word-length='6.0000' coherence='0.0000' uniform_dist='0.6676' corpus_dist='0.6559' token-doc-diff='0.0063' exclusivity='0.9526'>change</word>
+<word rank='4' count='4' prob='0.09302' cumulative='0.67442' docs='1' word-length='8.0000' coherence='0.0000' uniform_dist='0.3294' corpus_dist='0.3748' token-doc-diff='0.0000' exclusivity='0.9200'>language</word>
+<word rank='5' count='2' prob='0.04651' cumulative='0.72093' docs='1' word-length='12.0000' coherence='0.0000' uniform_dist='0.1325' corpus_dist='0.1874' token-doc-diff='0.0037' exclusivity='0.8519'>interceptors</word>
+<word rank='6' count='2' prob='0.04651' cumulative='0.76744' docs='1' word-length='9.0000' coherence='0.0000' uniform_dist='0.1325' corpus_dist='0.1874' token-doc-diff='0.0037' exclusivity='0.8519'>parameter</word>
+<word rank='7' count='2' prob='0.04651' cumulative='0.81395' docs='1' word-length='3.0000' coherence='0.0000' uniform_dist='0.1325' corpus_dist='0.1685' token-doc-diff='0.0037' exclusivity='0.7781'>url</word>
+<word rank='8' count='1' prob='0.02326' cumulative='0.83721' docs='1' word-length='5.0000' coherence='0.0000' uniform_dist='0.0501' corpus_dist='0.0937' token-doc-diff='0.0115' exclusivity='0.7424'>based</word>
+<word rank='9' count='1' prob='0.02326' cumulative='0.86047' docs='1' word-length='8.0000' coherence='0.0000' uniform_dist='0.0501' corpus_dist='0.0937' token-doc-diff='0.0115' exclusivity='0.7424'>defaults</word>
+<word rank='10' count='1' prob='0.02326' cumulative='0.88372' docs='1' word-length='8.0000' coherence='0.0000' uniform_dist='0.0501' corpus_dist='0.0937' token-doc-diff='0.0115' exclusivity='0.7424'>requests</word>
+</topic>
+<topic id='8' tokens='64.0000' document_entropy='1.0597' word-length='7.4000' coherence='-14.2716' uniform_dist='3.3375' corpus_dist='3.2279' eff_num_words='9.0220' token-doc-diff='0.0382' rank_1_docs='0.7500' allocation_ratio='0.0000' allocation_count='0.2500' exclusivity='0.7156'>
+<word rank='1' count='14' prob='0.21875' cumulative='0.21875' docs='3' word-length='4.0000' coherence='0.0000' uniform_dist='0.9617' corpus_dist='0.6765' token-doc-diff='0.0135' exclusivity='0.2995'>code</word>
+<word rank='2' count='12' prob='0.18750' cumulative='0.40625' docs='3' word-length='4.0000' coherence='0.0000' uniform_dist='0.7954' corpus_dist='0.5433' token-doc-diff='0.0080' exclusivity='0.6450'>data</word>
+<word rank='3' count='5' prob='0.07813' cumulative='0.48438' docs='3' word-length='5.0000' coherence='0.0000' uniform_dist='0.2630' corpus_dist='0.2837' token-doc-diff='0.0009' exclusivity='0.9067'>store</word>
+<word rank='4' count='5' prob='0.07813' cumulative='0.56250' docs='3' word-length='8.0000' coherence='0.0000' uniform_dist='0.2630' corpus_dist='0.2837' token-doc-diff='0.0009' exclusivity='0.9067'>retrieve</word>
+<word rank='5' count='5' prob='0.07813' cumulative='0.64063' docs='3' word-length='5.0000' coherence='0.0000' uniform_dist='0.2630' corpus_dist='0.2837' token-doc-diff='0.0009' exclusivity='0.9067'>query</word>
+<word rank='6' count='3' prob='0.04688' cumulative='0.68750' docs='2' word-length='8.0000' coherence='-0.4049' uniform_dist='0.1339' corpus_dist='0.1187' token-doc-diff='0.0012' exclusivity='0.3094'>pageable</word>
+<word rank='7' count='2' prob='0.03125' cumulative='0.71875' docs='1' word-length='13.0000' coherence='-1.0964' uniform_dist='0.0766' corpus_dist='0.1135' token-doc-diff='0.0000' exclusivity='0.7955'>transactional</word>
+<word rank='8' count='2' prob='0.03125' cumulative='0.75000' docs='2' word-length='7.0000' coherence='-0.4049' uniform_dist='0.0766' corpus_dist='0.1135' token-doc-diff='0.0042' exclusivity='0.7955'>methods</word>
+<word rank='9' count='2' prob='0.03125' cumulative='0.78125' docs='2' word-length='12.0000' coherence='-0.4049' uniform_dist='0.0766' corpus_dist='0.1135' token-doc-diff='0.0042' exclusivity='0.7955'>repositories</word>
+<word rank='10' count='2' prob='0.03125' cumulative='0.81250' docs='2' word-length='8.0000' coherence='-0.4049' uniform_dist='0.0766' corpus_dist='0.1135' token-doc-diff='0.0042' exclusivity='0.7955'>extended</word>
+</topic>
+<topic id='9' tokens='19.0000' document_entropy='0.0000' word-length='5.5000' coherence='-119.7613' uniform_dist='4.4755' corpus_dist='4.8094' eff_num_words='2.9835' token-doc-diff='0.1158' rank_1_docs='1.0000' allocation_ratio='0.0000' allocation_count='1.0000' exclusivity='0.5952'>
+<word rank='1' count='10' prob='0.52632' cumulative='0.52632' docs='1' word-length='11.0000' coherence='0.0000' uniform_dist='2.7760' corpus_dist='2.5504' token-doc-diff='0.0584' exclusivity='0.9845'>specialties</word>
+<word rank='2' count='4' prob='0.21053' cumulative='0.73684' docs='1' word-length='8.0000' coherence='0.0000' uniform_dist='0.9175' corpus_dist='1.0202' token-doc-diff='0.0033' exclusivity='0.9622'>internal</word>
+<word rank='3' count='1' prob='0.05263' cumulative='0.78947' docs='1' word-length='10.0000' coherence='0.0000' uniform_dist='0.1564' corpus_dist='0.2550' token-doc-diff='0.0108' exclusivity='0.8643'>collectors</word>
+<word rank='4' count='1' prob='0.05263' cumulative='0.84211' docs='1' word-length='7.0000' coherence='0.0000' uniform_dist='0.1564' corpus_dist='0.2550' token-doc-diff='0.0108' exclusivity='0.8643'>collect</word>
+<word rank='5' count='1' prob='0.05263' cumulative='0.89474' docs='1' word-length='5.0000' coherence='0.0000' uniform_dist='0.1564' corpus_dist='0.2186' token-doc-diff='0.0108' exclusivity='0.5482'>named</word>
+<word rank='6' count='1' prob='0.05263' cumulative='0.94737' docs='1' word-length='10.0000' coherence='0.0000' uniform_dist='0.1564' corpus_dist='0.2550' token-doc-diff='0.0108' exclusivity='0.8643'>comparator</word>
+<word rank='7' count='1' prob='0.05263' cumulative='1.00000' docs='1' word-length='4.0000' coherence='0.0000' uniform_dist='0.1564' corpus_dist='0.2550' token-doc-diff='0.0108' exclusivity='0.8643'>hash</word>
+</topic>
+<topic id='10' tokens='22.0000' document_entropy='0.7925' word-length='2.3000' coherence='-156.8759' uniform_dist='4.9230' corpus_dist='4.5793' eff_num_words='2.3725' token-doc-diff='0.0414' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.2749'>
+<word rank='1' count='11' prob='0.50000' cumulative='0.50000' docs='2' word-length='8.0000' coherence='0.0000' uniform_dist='2.6115' corpus_dist='2.3496' token-doc-diff='0.0148' exclusivity='0.9838'>existing</word>
+<word rank='2' count='9' prob='0.40909' cumulative='0.90909' docs='3' word-length='6.0000' coherence='0.0000' uniform_dist='2.0546' corpus_dist='1.9224' token-doc-diff='0.0001' exclusivity='0.9803'>exists</word>
+<word rank='3' count='1' prob='0.04545' cumulative='0.95455' docs='1' word-length='5.0000' coherence='-1.0964' uniform_dist='0.1284' corpus_dist='0.1821' token-doc-diff='0.0132' exclusivity='0.4998'>false</word>
+<word rank='4' count='1' prob='0.04545' cumulative='1.00000' docs='1' word-length='4.0000' coherence='-5.7029' uniform_dist='0.1284' corpus_dist='0.1252' token-doc-diff='0.0132' exclusivity='0.2850'>wick</word>
+</topic>
+<topic id='11' tokens='138.0000' document_entropy='1.0654' word-length='5.2000' coherence='-20.9914' uniform_dist='3.8768' corpus_dist='2.5169' eff_num_words='5.4505' token-doc-diff='0.0636' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.4635'>
+<word rank='1' count='47' prob='0.34058' cumulative='0.34058' docs='4' word-length='6.0000' coherence='0.0000' uniform_dist='1.6481' corpus_dist='0.9751' token-doc-diff='0.0231' exclusivity='0.9771'>owners</word>
+<word rank='2' count='25' prob='0.18116' cumulative='0.52174' docs='3' word-length='4.0000' coherence='-0.2874' uniform_dist='0.7623' corpus_dist='0.4981' token-doc-diff='0.0056' exclusivity='0.4337'>form</word>
+<word rank='3' count='16' prob='0.11594' cumulative='0.63768' docs='3' word-length='5.0000' coherence='-0.2874' uniform_dist='0.4361' corpus_dist='0.2553' token-doc-diff='0.0002' exclusivity='0.3192'>model</word>
+<word rank='4' count='13' prob='0.09420' cumulative='0.73188' docs='3' word-length='4.0000' coherence='-0.2874' uniform_dist='0.3348' corpus_dist='0.2081' token-doc-diff='0.0001' exclusivity='0.3274'>data</word>
+<word rank='5' count='11' prob='0.07971' cumulative='0.81159' docs='3' word-length='3.0000' coherence='-0.2874' uniform_dist='0.2700' corpus_dist='0.1482' token-doc-diff='0.0008' exclusivity='0.2235'>set</word>
+<word rank='6' count='7' prob='0.05072' cumulative='0.86232' docs='3' word-length='6.0000' coherence='-0.2874' uniform_dist='0.1489' corpus_dist='0.1452' token-doc-diff='0.0047' exclusivity='0.8639'>fields</word>
+<word rank='7' count='5' prob='0.03623' cumulative='0.89855' docs='3' word-length='7.0000' coherence='-0.2874' uniform_dist='0.0941' corpus_dist='0.1037' token-doc-diff='0.0087' exclusivity='0.8194'>correct</word>
+<word rank='8' count='5' prob='0.03623' cumulative='0.93478' docs='3' word-length='6.0000' coherence='-0.2874' uniform_dist='0.0941' corpus_dist='0.0786' token-doc-diff='0.0087' exclusivity='0.1673'>errors</word>
+<word rank='9' count='3' prob='0.02174' cumulative='0.95652' docs='2' word-length='5.0000' coherence='-0.6923' uniform_dist='0.0454' corpus_dist='-0.0200' token-doc-diff='0.0067' exclusivity='0.0273'>owner</word>
+<word rank='10' count='1' prob='0.00725' cumulative='0.96377' docs='1' word-length='6.0000' coherence='-6.3944' uniform_dist='0.0072' corpus_dist='0.0207' token-doc-diff='0.0050' exclusivity='0.4764'>called</word>
+</topic>
+<topic id='12' tokens='52.0000' document_entropy='0.0000' word-length='5.2000' coherence='-51.3263' uniform_dist='3.8313' corpus_dist='3.3768' eff_num_words='7.5955' token-doc-diff='0.0315' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.6850'>
+<word rank='1' count='8' prob='0.15385' cumulative='0.15385' docs='1' word-length='9.0000' coherence='0.0000' uniform_dist='0.6222' corpus_dist='0.5906' token-doc-diff='0.0017' exclusivity='0.9502'>telephone</word>
+<word rank='2' count='8' prob='0.15385' cumulative='0.30769' docs='1' word-length='7.0000' coherence='0.0000' uniform_dist='0.6222' corpus_dist='0.5906' token-doc-diff='0.0017' exclusivity='0.9502'>address</word>
+<word rank='3' count='8' prob='0.15385' cumulative='0.46154' docs='1' word-length='4.0000' coherence='0.0000' uniform_dist='0.6222' corpus_dist='0.5906' token-doc-diff='0.0017' exclusivity='0.9502'>city</word>
+<word rank='4' count='8' prob='0.15385' cumulative='0.61538' docs='1' word-length='5.0000' coherence='0.0000' uniform_dist='0.6222' corpus_dist='0.1593' token-doc-diff='0.0017' exclusivity='0.1903'>owner</word>
+<word rank='5' count='7' prob='0.13462' cumulative='0.75000' docs='1' word-length='6.0000' coherence='0.0000' uniform_dist='0.5265' corpus_dist='0.5168' token-doc-diff='0.0006' exclusivity='0.9435'>append</word>
+<word rank='6' count='5' prob='0.09615' cumulative='0.84615' docs='1' word-length='4.0000' coherence='0.0000' uniform_dist='0.3437' corpus_dist='0.3691' token-doc-diff='0.0003' exclusivity='0.9226'>comp</word>
+<word rank='7' count='4' prob='0.07692' cumulative='0.92308' docs='1' word-length='6.0000' coherence='0.0000' uniform_dist='0.2578' corpus_dist='0.2953' token-doc-diff='0.0016' exclusivity='0.9051'>ignore</word>
+<word rank='8' count='3' prob='0.05769' cumulative='0.98077' docs='1' word-length='4.0000' coherence='0.0000' uniform_dist='0.1767' corpus_dist='0.2215' token-doc-diff='0.0043' exclusivity='0.8774'>test</word>
+<word rank='9' count='1' prob='0.01923' cumulative='1.00000' docs='1' word-length='7.0000' coherence='0.0000' uniform_dist='0.0378' corpus_dist='0.0429' token-doc-diff='0.0179' exclusivity='0.1609'>pattern</word>
+</topic>
+<topic id='13' tokens='50.0000' document_entropy='1.3327' word-length='6.6000' coherence='-56.6731' uniform_dist='3.6020' corpus_dist='3.7611' eff_num_words='6.4103' token-doc-diff='0.0396' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.8433'>
+<word rank='1' count='17' prob='0.34000' cumulative='0.34000' docs='4' word-length='6.0000' coherence='0.0000' uniform_dist='1.6447' corpus_dist='1.3186' token-doc-diff='0.0224' exclusivity='0.9768'>spring</word>
+<word rank='2' count='6' prob='0.12000' cumulative='0.46000' docs='3' word-length='4.0000' coherence='-0.2874' uniform_dist='0.4555' corpus_dist='0.4654' token-doc-diff='0.0001' exclusivity='0.9370'>docs</word>
+<word rank='3' count='4' prob='0.08000' cumulative='0.54000' docs='3' word-length='6.0000' coherence='-0.6923' uniform_dist='0.2712' corpus_dist='0.3103' token-doc-diff='0.0014' exclusivity='0.9084'>method</word>
+<word rank='4' count='3' prob='0.06000' cumulative='0.60000' docs='3' word-length='9.0000' coherence='-0.4049' uniform_dist='0.1862' corpus_dist='0.2327' token-doc-diff='0.0042' exclusivity='0.8815'>reference</word>
+<word rank='5' count='3' prob='0.06000' cumulative='0.66000' docs='3' word-length='2.0000' coherence='-0.4049' uniform_dist='0.1862' corpus_dist='0.2327' token-doc-diff='0.0042' exclusivity='0.8815'>io</word>
+<word rank='6' count='3' prob='0.06000' cumulative='0.72000' docs='3' word-length='5.0000' coherence='-0.4049' uniform_dist='0.1862' corpus_dist='0.2327' token-doc-diff='0.0042' exclusivity='0.8815'>https</word>
+<word rank='7' count='2' prob='0.04000' cumulative='0.76000' docs='1' word-length='9.0000' coherence='-1.3838' uniform_dist='0.1079' corpus_dist='0.1551' token-doc-diff='0.0000' exclusivity='0.8323'>cacheable</word>
+<word rank='8' count='2' prob='0.04000' cumulative='0.80000' docs='1' word-length='9.0000' coherence='-6.7993' uniform_dist='0.1079' corpus_dist='0.1551' token-doc-diff='0.0000' exclusivity='0.8323'>formatter</word>
+<word rank='9' count='2' prob='0.04000' cumulative='0.84000' docs='2' word-length='10.0000' coherence='-1.0964' uniform_dist='0.1079' corpus_dist='0.1185' token-doc-diff='0.0028' exclusivity='0.4693'>collection</word>
+<word rank='10' count='2' prob='0.04000' cumulative='0.88000' docs='1' word-length='6.0000' coherence='-6.3944' uniform_dist='0.1079' corpus_dist='0.1551' token-doc-diff='0.0000' exclusivity='0.8323'>search</word>
+</topic>
+<topic id='14' tokens='19.0000' document_entropy='0.9174' word-length='3.6000' coherence='-167.9952' uniform_dist='4.5306' corpus_dist='4.2302' eff_num_words='2.9835' token-doc-diff='0.0317' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.4564'>
+<word rank='1' count='10' prob='0.52632' cumulative='0.52632' docs='3' word-length='4.0000' coherence='0.0000' uniform_dist='2.7760' corpus_dist='2.0897' token-doc-diff='0.0109' exclusivity='0.6897'>code</word>
+<word rank='2' count='3' prob='0.15789' cumulative='0.68421' docs='1' word-length='6.0000' coherence='-1.0964' uniform_dist='0.6427' corpus_dist='0.7651' token-doc-diff='0.0020' exclusivity='0.9502'>length</word>
+<word rank='3' count='3' prob='0.15789' cumulative='0.84211' docs='2' word-length='8.0000' coherence='-0.4049' uniform_dist='0.6427' corpus_dist='0.6103' token-doc-diff='0.0027' exclusivity='0.3314'>override</word>
+<word rank='4' count='1' prob='0.05263' cumulative='0.89474' docs='1' word-length='10.0000' coherence='-1.0964' uniform_dist='0.1564' corpus_dist='0.2550' token-doc-diff='0.0053' exclusivity='0.8643'>characters</word>
+<word rank='5' count='1' prob='0.05263' cumulative='0.94737' docs='1' word-length='6.0000' coherence='-1.0964' uniform_dist='0.1564' corpus_dist='0.2550' token-doc-diff='0.0053' exclusivity='0.8643'>easier</word>
+<word rank='6' count='1' prob='0.05263' cumulative='1.00000' docs='1' word-length='2.0000' coherence='-5.7029' uniform_dist='0.1564' corpus_dist='0.2550' token-doc-diff='0.0053' exclusivity='0.8643'>es</word>
+</topic>
+<topic id='15' tokens='91.0000' document_entropy='1.4163' word-length='3.9000' coherence='-150.6058' uniform_dist='4.4874' corpus_dist='3.0746' eff_num_words='3.0344' token-doc-diff='0.0721' rank_1_docs='0.4000' allocation_ratio='0.0000' allocation_count='0.2000' exclusivity='0.4790'>
+<word rank='1' count='47' prob='0.51648' cumulative='0.51648' docs='5' word-length='4.0000' coherence='0.0000' uniform_dist='2.7144' corpus_dist='1.6938' token-doc-diff='0.0289' exclusivity='0.9847'>date</word>
+<word rank='2' count='18' prob='0.19780' cumulative='0.71429' docs='3' word-length='5.0000' coherence='-0.5104' uniform_dist='0.8497' corpus_dist='0.6487' token-doc-diff='0.0028' exclusivity='0.9611'>birth</word>
+<word rank='3' count='10' prob='0.10989' cumulative='0.82418' docs='4' word-length='5.0000' coherence='-0.4049' uniform_dist='0.4075' corpus_dist='0.3499' token-doc-diff='0.0045' exclusivity='0.8066'>local</word>
+<word rank='4' count='9' prob='0.09890' cumulative='0.92308' docs='4' word-length='4.0000' coherence='-0.2874' uniform_dist='0.3563' corpus_dist='0.1652' token-doc-diff='0.0062' exclusivity='0.0835'>type</word>
+<word rank='5' count='3' prob='0.03297' cumulative='0.95604' docs='2' word-length='5.0000' coherence='-1.3838' uniform_dist='0.0825' corpus_dist='0.1081' token-doc-diff='0.0070' exclusivity='0.8046'>utils</word>
+<word rank='6' count='2' prob='0.02198' cumulative='0.97802' docs='2' word-length='4.0000' coherence='-6.3944' uniform_dist='0.0461' corpus_dist='0.0445' token-doc-diff='0.0113' exclusivity='0.1434'>wick</word>
+<word rank='7' count='1' prob='0.01099' cumulative='0.98901' docs='1' word-length='8.0000' coherence='-6.3944' uniform_dist='0.0154' corpus_dist='0.0360' token-doc-diff='0.0056' exclusivity='0.5790'>populate</word>
+<word rank='8' count='1' prob='0.01099' cumulative='1.00000' docs='1' word-length='4.0000' coherence='-6.3944' uniform_dist='0.0154' corpus_dist='0.0284' token-doc-diff='0.0056' exclusivity='0.4275'>time</word>
+</topic>
+<topic id='16' tokens='18.0000' document_entropy='0.0000' word-length='5.2000' coherence='-136.8701' uniform_dist='4.6452' corpus_dist='4.6689' eff_num_words='2.4545' token-doc-diff='0.1167' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.4674'>
+<word rank='1' count='11' prob='0.61111' cumulative='0.61111' docs='1' word-length='5.0000' coherence='0.0000' uniform_dist='3.3145' corpus_dist='2.9944' token-doc-diff='0.0675' exclusivity='0.9866'>cache</word>
+<word rank='2' count='2' prob='0.11111' cumulative='0.72222' docs='1' word-length='7.0000' coherence='0.0000' uniform_dist='0.4132' corpus_dist='0.5444' token-doc-diff='0.0028' exclusivity='0.9305'>options</word>
+<word rank='3' count='2' prob='0.11111' cumulative='0.83333' docs='1' word-length='13.0000' coherence='0.0000' uniform_dist='0.4132' corpus_dist='0.3134' token-doc-diff='0.0028' exclusivity='0.1458'>configuration</word>
+<word rank='4' count='1' prob='0.05556' cumulative='0.88889' docs='1' word-length='12.0000' coherence='0.0000' uniform_dist='0.1681' corpus_dist='0.2722' token-doc-diff='0.0145' exclusivity='0.8703'>programmatic</word>
+<word rank='5' count='1' prob='0.05556' cumulative='0.94444' docs='1' word-length='9.0000' coherence='0.0000' uniform_dist='0.1681' corpus_dist='0.2722' token-doc-diff='0.0145' exclusivity='0.8703'>providing</word>
+<word rank='6' count='1' prob='0.05556' cumulative='1.00000' docs='1' word-length='6.0000' coherence='0.0000' uniform_dist='0.1681' corpus_dist='0.2722' token-doc-diff='0.0145' exclusivity='0.8703'>caches</word>
+</topic>
+<topic id='17' tokens='19.0000' document_entropy='0.0000' word-length='6.8000' coherence='0.0000' uniform_dist='3.5830' corpus_dist='4.6034' eff_num_words='8.8049' token-doc-diff='0.0363' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.8875'>
+<word rank='1' count='4' prob='0.21053' cumulative='0.21053' docs='1' word-length='7.0000' coherence='0.0000' uniform_dist='0.9175' corpus_dist='0.9732' token-doc-diff='0.0140' exclusivity='0.8843'>session</word>
+<word rank='2' count='3' prob='0.15789' cumulative='0.36842' docs='1' word-length='8.0000' coherence='0.0000' uniform_dist='0.6427' corpus_dist='0.7651' token-doc-diff='0.0054' exclusivity='0.9502'>registry</word>
+<word rank='3' count='2' prob='0.10526' cumulative='0.47368' docs='1' word-length='4.0000' coherence='0.0000' uniform_dist='0.3858' corpus_dist='0.5101' token-doc-diff='0.0004' exclusivity='0.9271'>user</word>
+<word rank='4' count='2' prob='0.10526' cumulative='0.57895' docs='1' word-length='7.0000' coherence='0.0000' uniform_dist='0.3858' corpus_dist='0.5101' token-doc-diff='0.0004' exclusivity='0.9271'>handles</word>
+<word rank='5' count='1' prob='0.05263' cumulative='0.63158' docs='1' word-length='7.0000' coherence='0.0000' uniform_dist='0.1564' corpus_dist='0.2550' token-doc-diff='0.0027' exclusivity='0.8643'>storage</word>
+<word rank='6' count='1' prob='0.05263' cumulative='0.68421' docs='1' word-length='8.0000' coherence='0.0000' uniform_dist='0.1564' corpus_dist='0.2550' token-doc-diff='0.0027' exclusivity='0.8643'>warnings</word>
+<word rank='7' count='1' prob='0.05263' cumulative='0.73684' docs='1' word-length='4.0000' coherence='0.0000' uniform_dist='0.1564' corpus_dist='0.2550' token-doc-diff='0.0027' exclusivity='0.8643'>anuj</word>
+<word rank='8' count='1' prob='0.05263' cumulative='0.78947' docs='1' word-length='8.0000' coherence='0.0000' uniform_dist='0.1564' corpus_dist='0.2550' token-doc-diff='0.0027' exclusivity='0.8643'>allowing</word>
+<word rank='9' count='1' prob='0.05263' cumulative='0.84211' docs='1' word-length='8.0000' coherence='0.0000' uniform_dist='0.1564' corpus_dist='0.2550' token-doc-diff='0.0027' exclusivity='0.8643'>specific</word>
+<word rank='10' count='1' prob='0.05263' cumulative='0.89474' docs='1' word-length='7.0000' coherence='0.0000' uniform_dist='0.1564' corpus_dist='0.2550' token-doc-diff='0.0027' exclusivity='0.8643'>loading</word>
+</topic>
+<topic id='18' tokens='2.0000' document_entropy='0.0000' word-length='1.5000' coherence='-91.2467' uniform_dist='5.2231' corpus_dist='6.2924' eff_num_words='2.0000' token-doc-diff='0.0000' rank_1_docs='0.0000' allocation_ratio='NaN' allocation_count='0.0000' exclusivity='0.1898'>
+<word rank='1' count='1' prob='0.50000' cumulative='0.50000' docs='1' word-length='10.0000' coherence='0.0000' uniform_dist='2.6115' corpus_dist='3.5486' token-doc-diff='0.0000' exclusivity='0.9782'>validinput</word>
+<word rank='2' count='1' prob='0.50000' cumulative='1.00000' docs='1' word-length='5.0000' coherence='0.0000' uniform_dist='2.6115' corpus_dist='2.7438' token-doc-diff='0.0000' exclusivity='0.9195'>empty</word>
+</topic>
+<topic id='19' tokens='98.0000' document_entropy='1.1756' word-length='6.7000' coherence='-29.8554' uniform_dist='3.9125' corpus_dist='3.0514' eff_num_words='5.9138' token-doc-diff='0.0507' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.6693'>
+<word rank='1' count='27' prob='0.27551' cumulative='0.27551' docs='4' word-length='8.0000' coherence='0.0000' uniform_dist='1.2748' corpus_dist='0.8831' token-doc-diff='0.0145' exclusivity='0.9717'>redirect</word>
+<word rank='2' count='19' prob='0.19388' cumulative='0.46939' docs='4' word-length='10.0000' coherence='0.0000' uniform_dist='0.8290' corpus_dist='0.6214' token-doc-diff='0.0037' exclusivity='0.9603'>attributes</word>
+<word rank='3' count='18' prob='0.18367' cumulative='0.65306' docs='4' word-length='4.0000' coherence='0.0000' uniform_dist='0.7754' corpus_dist='0.5076' token-doc-diff='0.0027' exclusivity='0.4024'>find</word>
+<word rank='4' count='9' prob='0.09184' cumulative='0.74490' docs='4' word-length='10.0000' coherence='0.0000' uniform_dist='0.3240' corpus_dist='0.2307' token-doc-diff='0.0014' exclusivity='0.1670'>controller</word>
+<word rank='5' count='8' prob='0.08163' cumulative='0.82653' docs='3' word-length='5.0000' coherence='-0.2874' uniform_dist='0.2784' corpus_dist='0.2617' token-doc-diff='0.0003' exclusivity='0.9107'>flash</word>
+<word rank='6' count='6' prob='0.06122' cumulative='0.88776' docs='3' word-length='7.0000' coherence='-0.2874' uniform_dist='0.1912' corpus_dist='0.1962' token-doc-diff='0.0019' exclusivity='0.8843'>process</word>
+<word rank='7' count='4' prob='0.04082' cumulative='0.92857' docs='4' word-length='7.0000' coherence='0.0000' uniform_dist='0.1109' corpus_dist='0.1217' token-doc-diff='0.0117' exclusivity='0.4822'>request</word>
+<word rank='8' count='3' prob='0.03061' cumulative='0.95918' docs='3' word-length='3.0000' coherence='-0.2874' uniform_dist='0.0744' corpus_dist='0.0981' token-doc-diff='0.0088' exclusivity='0.7928'>map</word>
+<word rank='9' count='1' prob='0.01020' cumulative='0.96939' docs='1' word-length='5.0000' coherence='-1.3838' uniform_dist='0.0136' corpus_dist='0.0327' token-doc-diff='0.0029' exclusivity='0.5610'>scope</word>
+<word rank='10' count='1' prob='0.01020' cumulative='0.97959' docs='1' word-length='8.0000' coherence='-5.7029' uniform_dist='0.0136' corpus_dist='0.0327' token-doc-diff='0.0029' exclusivity='0.5610'>iterator</word>
+</topic>
+<topic id='20' tokens='28.0000' document_entropy='1.5792' word-length='5.5000' coherence='-160.4830' uniform_dist='3.6701' corpus_dist='4.2196' eff_num_words='8.5217' token-doc-diff='0.0109' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.8029'>
+<word rank='1' count='5' prob='0.17857' cumulative='0.17857' docs='3' word-length='4.0000' coherence='0.0000' uniform_dist='0.7488' corpus_dist='0.7961' token-doc-diff='0.0009' exclusivity='0.9562'>base</word>
+<word rank='2' count='4' prob='0.14286' cumulative='0.32143' docs='3' word-length='8.0000' coherence='-0.4049' uniform_dist='0.5672' corpus_dist='0.6369' token-doc-diff='0.0000' exclusivity='0.9459'>property</word>
+<word rank='3' count='4' prob='0.14286' cumulative='0.46429' docs='3' word-length='6.0000' coherence='-0.4049' uniform_dist='0.5672' corpus_dist='0.4924' token-doc-diff='0.0000' exclusivity='0.3853'>entity</word>
+<word rank='4' count='3' prob='0.10714' cumulative='0.57143' docs='1' word-length='4.0000' coherence='-6.7993' uniform_dist='0.3946' corpus_dist='0.4229' token-doc-diff='0.0059' exclusivity='0.5435'>true</word>
+<word rank='5' count='3' prob='0.10714' cumulative='0.67857' docs='3' word-length='10.0000' coherence='-5.7029' uniform_dist='0.3946' corpus_dist='0.4777' token-doc-diff='0.0015' exclusivity='0.9292'>superclass</word>
+<word rank='6' count='3' prob='0.10714' cumulative='0.78571' docs='2' word-length='6.0000' coherence='-6.7993' uniform_dist='0.3946' corpus_dist='0.4777' token-doc-diff='0.0001' exclusivity='0.9292'>person</word>
+<word rank='7' count='2' prob='0.07143' cumulative='0.85714' docs='2' word-length='7.0000' coherence='-6.3944' uniform_dist='0.2341' corpus_dist='0.3184' token-doc-diff='0.0010' exclusivity='0.8974'>needing</word>
+<word rank='8' count='1' prob='0.03571' cumulative='0.89286' docs='1' word-length='4.0000' coherence='-6.7993' uniform_dist='0.0923' corpus_dist='0.1592' token-doc-diff='0.0005' exclusivity='0.8142'>core</word>
+<word rank='9' count='1' prob='0.03571' cumulative='0.92857' docs='1' word-length='3.0000' coherence='-6.7993' uniform_dist='0.0923' corpus_dist='0.1592' token-doc-diff='0.0005' exclusivity='0.8142'>doc</word>
+<word rank='10' count='1' prob='0.03571' cumulative='0.96429' docs='1' word-length='3.0000' coherence='-6.7993' uniform_dist='0.0923' corpus_dist='0.1592' token-doc-diff='0.0005' exclusivity='0.8142'>mvc</word>
+</topic>
+<topic id='21' tokens='7.0000' document_entropy='0.0000' word-length='2.8000' coherence='-136.8701' uniform_dist='4.6392' corpus_dist='5.8444' eff_num_words='3.2667' token-doc-diff='0.0273' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.3833'>
+<word rank='1' count='3' prob='0.42857' cumulative='0.42857' docs='1' word-length='5.0000' coherence='0.0000' uniform_dist='2.1724' corpus_dist='2.5047' token-doc-diff='0.0119' exclusivity='0.9797'>parse</word>
+<word rank='2' count='2' prob='0.28571' cumulative='0.71429' docs='1' word-length='5.0000' coherence='0.0000' uniform_dist='1.3324' corpus_dist='1.6698' token-doc-diff='0.0006' exclusivity='0.9699'>print</word>
+<word rank='3' count='1' prob='0.14286' cumulative='0.85714' docs='1' word-length='7.0000' coherence='0.0000' uniform_dist='0.5672' corpus_dist='0.8349' token-doc-diff='0.0074' exclusivity='0.9417'>editors</word>
+<word rank='4' count='1' prob='0.14286' cumulative='1.00000' docs='1' word-length='11.0000' coherence='0.0000' uniform_dist='0.5672' corpus_dist='0.8349' token-doc-diff='0.0074' exclusivity='0.9417'>improvement</word>
+</topic>
+<topic id='22' tokens='43.0000' document_entropy='1.0994' word-length='4.4000' coherence='-194.3327' uniform_dist='4.9069' corpus_dist='3.1466' eff_num_words='1.9361' token-doc-diff='0.0944' rank_1_docs='0.2500' allocation_ratio='0.0000' allocation_count='0.2500' exclusivity='0.4610'>
+<word rank='1' count='30' prob='0.69767' cumulative='0.69767' docs='3' word-length='2.0000' coherence='0.0000' uniform_dist='3.8764' corpus_dist='1.9851' token-doc-diff='0.0408' exclusivity='0.6220'>id</word>
+<word rank='2' count='6' prob='0.13953' cumulative='0.83721' docs='3' word-length='7.0000' coherence='0.0000' uniform_dist='0.5507' corpus_dist='0.5056' token-doc-diff='0.0150' exclusivity='0.8408'>integer</word>
+<word rank='3' count='4' prob='0.09302' cumulative='0.93023' docs='1' word-length='10.0000' coherence='-1.0964' uniform_dist='0.3294' corpus_dist='0.3748' token-doc-diff='0.0001' exclusivity='0.9200'>identifier</word>
+<word rank='4' count='1' prob='0.02326' cumulative='0.95349' docs='1' word-length='9.0000' coherence='-5.7029' uniform_dist='0.0501' corpus_dist='0.0937' token-doc-diff='0.0129' exclusivity='0.7424'>generated</word>
+<word rank='5' count='1' prob='0.02326' cumulative='0.97674' docs='1' word-length='8.0000' coherence='-6.7993' uniform_dist='0.0501' corpus_dist='0.0937' token-doc-diff='0.0129' exclusivity='0.7424'>business</word>
+<word rank='6' count='1' prob='0.02326' cumulative='1.00000' docs='1' word-length='8.0000' coherence='-5.7029' uniform_dist='0.0501' corpus_dist='0.0937' token-doc-diff='0.0129' exclusivity='0.7424'>drotbohm</word>
+</topic>
+<topic id='23' tokens='20.0000' document_entropy='0.7306' word-length='6.9000' coherence='-109.4119' uniform_dist='3.9694' corpus_dist='4.2349' eff_num_words='5.7143' token-doc-diff='0.0117' rank_1_docs='0.3333' allocation_ratio='0.0000' allocation_count='0.3333' exclusivity='0.6361'>
+<word rank='1' count='6' prob='0.30000' cumulative='0.30000' docs='3' word-length='4.0000' coherence='0.0000' uniform_dist='1.4137' corpus_dist='1.0926' token-doc-diff='0.0023' exclusivity='0.5698'>list</word>
+<word rank='2' count='4' prob='0.20000' cumulative='0.50000' docs='2' word-length='3.0000' coherence='-0.4049' uniform_dist='0.8614' corpus_dist='0.9589' token-doc-diff='0.0015' exclusivity='0.9603'>xml</word>
+<word rank='3' count='3' prob='0.15000' cumulative='0.65000' docs='2' word-length='7.0000' coherence='-0.4049' uniform_dist='0.6029' corpus_dist='0.7192' token-doc-diff='0.0000' exclusivity='0.9478'>element</word>
+<word rank='4' count='2' prob='0.10000' cumulative='0.75000' docs='1' word-length='4.0000' coherence='-1.0964' uniform_dist='0.3614' corpus_dist='0.3696' token-doc-diff='0.0008' exclusivity='0.3439'>view</word>
+<word rank='5' count='1' prob='0.05000' cumulative='0.80000' docs='1' word-length='4.0000' coherence='-1.0964' uniform_dist='0.1460' corpus_dist='0.2397' token-doc-diff='0.0014' exclusivity='0.8585'>root</word>
+<word rank='6' count='1' prob='0.05000' cumulative='0.85000' docs='1' word-length='11.0000' coherence='-1.0964' uniform_dist='0.1460' corpus_dist='0.2397' token-doc-diff='0.0014' exclusivity='0.8585'>marshalling</word>
+<word rank='7' count='1' prob='0.05000' cumulative='0.90000' docs='1' word-length='15.0000' coherence='-1.0964' uniform_dist='0.1460' corpus_dist='0.2397' token-doc-diff='0.0014' exclusivity='0.8585'>springframework</word>
+<word rank='8' count='1' prob='0.05000' cumulative='0.95000' docs='1' word-length='13.0000' coherence='-1.0964' uniform_dist='0.1460' corpus_dist='0.2397' token-doc-diff='0.0014' exclusivity='0.8585'>veterinarians</word>
+<word rank='9' count='1' prob='0.05000' cumulative='1.00000' docs='1' word-length='8.0000' coherence='-6.3944' uniform_dist='0.1460' corpus_dist='0.1358' token-doc-diff='0.0014' exclusivity='0.1055'>override</word>
+</topic>
+<topic id='24' tokens='196.0000' document_entropy='1.6022' word-length='2.5000' coherence='-184.5455' uniform_dist='5.3774' corpus_dist='2.5066' eff_num_words='1.3420' token-doc-diff='0.0806' rank_1_docs='0.1818' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.3380'>
+<word rank='1' count='168' prob='0.85714' cumulative='0.85714' docs='10' word-length='3.0000' coherence='0.0000' uniform_dist='4.9389' corpus_dist='2.1533' token-doc-diff='0.0200' exclusivity='0.9908'>pet</word>
+<word rank='2' count='19' prob='0.09694' cumulative='0.95408' docs='3' word-length='4.0000' coherence='-1.2032' uniform_dist='0.3473' corpus_dist='0.2435' token-doc-diff='0.0037' exclusivity='0.9240'>pets</word>
+<word rank='3' count='6' prob='0.03061' cumulative='0.98469' docs='4' word-length='6.0000' coherence='-1.2032' uniform_dist='0.0744' corpus_dist='0.0769' token-doc-diff='0.0377' exclusivity='0.7934'>equals</word>
+<word rank='4' count='2' prob='0.01020' cumulative='0.99490' docs='1' word-length='7.0000' coherence='-2.2996' uniform_dist='0.0136' corpus_dist='0.0256' token-doc-diff='0.0078' exclusivity='0.5616'>literal</word>
+<word rank='5' count='1' prob='0.00510' cumulative='1.00000' docs='1' word-length='5.0000' coherence='-5.7029' uniform_dist='0.0033' corpus_dist='0.0072' token-doc-diff='0.0114' exclusivity='0.1103'>added</word>
+</topic>
+<topic id='25' tokens='43.0000' document_entropy='0.1881' word-length='7.0000' coherence='-7.6063' uniform_dist='3.8488' corpus_dist='3.9419' eff_num_words='6.6751' token-doc-diff='0.0498' rank_1_docs='0.5000' allocation_ratio='0.5000' allocation_count='0.5000' exclusivity='0.7560'>
+<word rank='1' count='11' prob='0.25581' cumulative='0.25581' docs='2' word-length='5.0000' coherence='0.0000' uniform_dist='1.1647' corpus_dist='1.0307' token-doc-diff='0.0047' exclusivity='0.9693'>hints</word>
+<word rank='2' count='8' prob='0.18605' cumulative='0.44186' docs='1' word-length='8.0000' coherence='-0.6915' uniform_dist='0.7878' corpus_dist='0.7496' token-doc-diff='0.0100' exclusivity='0.9583'>register</word>
+<word rank='3' count='6' prob='0.13953' cumulative='0.58140' docs='1' word-length='4.0000' coherence='-0.6915' uniform_dist='0.5507' corpus_dist='0.5622' token-doc-diff='0.0036' exclusivity='0.9452'>hint</word>
+<word rank='4' count='4' prob='0.09302' cumulative='0.67442' docs='1' word-length='9.0000' coherence='-0.6915' uniform_dist='0.3294' corpus_dist='0.3540' token-doc-diff='0.0001' exclusivity='0.7926'>resources</word>
+<word rank='5' count='4' prob='0.09302' cumulative='0.76744' docs='1' word-length='7.0000' coherence='-0.6915' uniform_dist='0.3294' corpus_dist='0.3540' token-doc-diff='0.0001' exclusivity='0.7725'>pattern</word>
+<word rank='6' count='3' prob='0.06977' cumulative='0.83721' docs='1' word-length='13.0000' coherence='-0.6915' uniform_dist='0.2270' corpus_dist='0.2811' token-doc-diff='0.0003' exclusivity='0.8961'>serialization</word>
+<word rank='7' count='3' prob='0.06977' cumulative='0.90698' docs='2' word-length='7.0000' coherence='0.0000' uniform_dist='0.2270' corpus_dist='0.2610' token-doc-diff='0.0102' exclusivity='0.4312'>runtime</word>
+<word rank='8' count='2' prob='0.04651' cumulative='0.95349' docs='1' word-length='2.0000' coherence='-0.6915' uniform_dist='0.1325' corpus_dist='0.1874' token-doc-diff='0.0026' exclusivity='0.8519'>db</word>
+<word rank='9' count='1' prob='0.02326' cumulative='0.97674' docs='1' word-length='10.0000' coherence='-0.6915' uniform_dist='0.0501' corpus_dist='0.0682' token-doc-diff='0.0090' exclusivity='0.2006'>reflection</word>
+<word rank='10' count='1' prob='0.02326' cumulative='1.00000' docs='1' word-length='5.0000' coherence='-0.6915' uniform_dist='0.0501' corpus_dist='0.0937' token-doc-diff='0.0090' exclusivity='0.7424'>mysql</word>
+</topic>
+<topic id='26' tokens='167.0000' document_entropy='1.0475' word-length='6.6000' coherence='0.0000' uniform_dist='3.8559' corpus_dist='2.4364' eff_num_words='4.8226' token-doc-diff='0.0970' rank_1_docs='0.3333' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.6583'>
+<word rank='1' count='68' prob='0.40719' cumulative='0.40719' docs='3' word-length='2.0000' coherence='0.0000' uniform_dist='2.0431' corpus_dist='0.9393' token-doc-diff='0.0554' exclusivity='0.3708'>id</word>
+<word rank='2' count='20' prob='0.11976' cumulative='0.52695' docs='3' word-length='6.0000' coherence='0.0000' uniform_dist='0.4544' corpus_dist='0.3200' token-doc-diff='0.0008' exclusivity='0.9375'>update</word>
+<word rank='3' count='15' prob='0.08982' cumulative='0.61677' docs='3' word-length='6.0000' coherence='0.0000' uniform_dist='0.3149' corpus_dist='0.2400' token-doc-diff='0.0000' exclusivity='0.9184'>binder</word>
+<word rank='4' count='14' prob='0.08383' cumulative='0.70060' docs='3' word-length='6.0000' coherence='0.0000' uniform_dist='0.2882' corpus_dist='0.2128' token-doc-diff='0.0002' exclusivity='0.4266'>create</word>
+<word rank='5' count='12' prob='0.07186' cumulative='0.77246' docs='3' word-length='4.0000' coherence='0.0000' uniform_dist='0.2359' corpus_dist='0.1920' token-doc-diff='0.0008' exclusivity='0.9000'>init</word>
+<word rank='6' count='8' prob='0.04790' cumulative='0.82036' docs='3' word-length='10.0000' coherence='0.0000' uniform_dist='0.1379' corpus_dist='0.0774' token-doc-diff='0.0041' exclusivity='0.1062'>repository</word>
+<word rank='7' count='6' prob='0.03593' cumulative='0.85629' docs='3' word-length='7.0000' coherence='0.0000' uniform_dist='0.0931' corpus_dist='0.0960' token-doc-diff='0.0072' exclusivity='0.8183'>binding</word>
+<word rank='8' count='6' prob='0.03593' cumulative='0.89222' docs='3' word-length='7.0000' coherence='0.0000' uniform_dist='0.0931' corpus_dist='0.0905' token-doc-diff='0.0072' exclusivity='0.5653'>illegal</word>
+<word rank='9' count='5' prob='0.02994' cumulative='0.92216' docs='3' word-length='8.0000' coherence='0.0000' uniform_dist='0.0721' corpus_dist='0.0800' token-doc-diff='0.0093' exclusivity='0.7896'>mismatch</word>
+<word rank='10' count='4' prob='0.02395' cumulative='0.94611' docs='3' word-length='10.0000' coherence='0.0000' uniform_dist='0.0523' corpus_dist='0.0640' token-doc-diff='0.0119' exclusivity='0.7502'>disallowed</word>
+</topic>
+<topic id='27' tokens='19.0000' document_entropy='1.4571' word-length='5.0000' coherence='-204.6340' uniform_dist='4.4361' corpus_dist='4.1297' eff_num_words='3.2523' token-doc-diff='0.0155' rank_1_docs='0.2000' allocation_ratio='0.0000' allocation_count='0.2000' exclusivity='0.5335'>
+<word rank='1' count='9' prob='0.47368' cumulative='0.47368' docs='4' word-length='10.0000' coherence='0.0000' uniform_dist='2.4485' corpus_dist='1.9671' token-doc-diff='0.0089' exclusivity='0.8187'>controller</word>
+<word rank='2' count='5' prob='0.26316' cumulative='0.73684' docs='4' word-length='7.0000' coherence='0.0000' uniform_dist='1.2056' corpus_dist='0.9239' token-doc-diff='0.0009' exclusivity='0.7592'>mapping</word>
+<word rank='3' count='1' prob='0.05263' cumulative='0.78947' docs='1' word-length='3.0000' coherence='-1.3838' uniform_dist='0.1564' corpus_dist='0.2550' token-doc-diff='0.0011' exclusivity='0.8643'>min</word>
+<word rank='4' count='1' prob='0.05263' cumulative='0.84211' docs='1' word-length='6.0000' coherence='-5.7029' uniform_dist='0.1564' corpus_dist='0.2186' token-doc-diff='0.0011' exclusivity='0.2994'>fisher</word>
+<word rank='5' count='1' prob='0.05263' cumulative='0.89474' docs='1' word-length='9.0000' coherence='-7.0867' uniform_dist='0.1564' corpus_dist='0.2550' token-doc-diff='0.0011' exclusivity='0.8643'>comparing</word>
+<word rank='6' count='1' prob='0.05263' cumulative='0.94737' docs='1' word-length='8.0000' coherence='-5.7029' uniform_dist='0.1564' corpus_dist='0.2550' token-doc-diff='0.0011' exclusivity='0.8643'>expected</word>
+<word rank='7' count='1' prob='0.05263' cumulative='1.00000' docs='1' word-length='7.0000' coherence='-5.7029' uniform_dist='0.1564' corpus_dist='0.2550' token-doc-diff='0.0011' exclusivity='0.8643'>trigger</word>
+</topic>
+<topic id='28' tokens='44.0000' document_entropy='1.2176' word-length='3.6000' coherence='-193.4071' uniform_dist='4.7001' corpus_dist='3.6168' eff_num_words='2.7345' token-doc-diff='0.0388' rank_1_docs='0.1667' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.4113'>
+<word rank='1' count='22' prob='0.50000' cumulative='0.50000' docs='5' word-length='4.0000' coherence='0.0000' uniform_dist='2.6115' corpus_dist='1.6452' token-doc-diff='0.0060' exclusivity='0.4159'>type</word>
+<word rank='2' count='14' prob='0.31818' cumulative='0.81818' docs='3' word-length='5.0000' coherence='-0.5104' uniform_dist='1.5181' corpus_dist='1.2747' token-doc-diff='0.0051' exclusivity='0.9752'>types</word>
+<word rank='3' count='5' prob='0.11364' cumulative='0.93182' docs='3' word-length='4.0000' coherence='-0.5104' uniform_dist='0.4252' corpus_dist='0.4552' token-doc-diff='0.0078' exclusivity='0.9336'>text</word>
+<word rank='4' count='1' prob='0.02273' cumulative='0.95455' docs='1' word-length='5.0000' coherence='-7.3097' uniform_dist='0.0485' corpus_dist='0.0910' token-doc-diff='0.0066' exclusivity='0.7381'>strip</word>
+<word rank='5' count='1' prob='0.02273' cumulative='0.97727' docs='1' word-length='10.0000' coherence='-5.7029' uniform_dist='0.0485' corpus_dist='0.0910' token-doc-diff='0.0066' exclusivity='0.7381'>comparison</word>
+<word rank='6' count='1' prob='0.02273' cumulative='1.00000' docs='1' word-length='8.0000' coherence='-5.7029' uniform_dist='0.0485' corpus_dist='0.0595' token-doc-diff='0.0066' exclusivity='0.3123'>elements</word>
+</topic>
+<topic id='29' tokens='32.0000' document_entropy='1.8129' word-length='5.6000' coherence='-169.7081' uniform_dist='3.8544' corpus_dist='4.0997' eff_num_words='6.4000' token-doc-diff='0.0140' rank_1_docs='0.2857' allocation_ratio='0.0000' allocation_count='0.2857' exclusivity='0.7813'>
+<word rank='1' count='7' prob='0.21875' cumulative='0.21875' docs='6' word-length='5.0000' coherence='0.0000' uniform_dist='0.9617' corpus_dist='0.9460' token-doc-diff='0.0003' exclusivity='0.9641'>table</word>
+<word rank='2' count='7' prob='0.21875' cumulative='0.43750' docs='6' word-length='6.0000' coherence='0.0000' uniform_dist='0.9617' corpus_dist='0.8471' token-doc-diff='0.0003' exclusivity='0.5929'>entity</word>
+<word rank='3' count='6' prob='0.18750' cumulative='0.62500' docs='2' word-length='9.0000' coherence='-1.0975' uniform_dist='0.7954' corpus_dist='0.8109' token-doc-diff='0.0113' exclusivity='0.9584'>specialty</word>
+<word rank='4' count='4' prob='0.12500' cumulative='0.75000' docs='3' word-length='4.0000' coherence='-0.6926' uniform_dist='0.4796' corpus_dist='0.5406' token-doc-diff='0.0000' exclusivity='0.9388'>join</word>
+<word rank='5' count='2' prob='0.06250' cumulative='0.81250' docs='2' word-length='7.0000' coherence='-6.7993' uniform_dist='0.1965' corpus_dist='0.1444' token-doc-diff='0.0006' exclusivity='0.3897'>hoeller</word>
+<word rank='6' count='1' prob='0.03125' cumulative='0.84375' docs='1' word-length='5.0000' coherence='-7.4919' uniform_dist='0.0766' corpus_dist='0.1351' token-doc-diff='0.0003' exclusivity='0.7937'>array</word>
+<word rank='7' count='1' prob='0.03125' cumulative='0.87500' docs='1' word-length='7.0000' coherence='-7.4919' uniform_dist='0.0766' corpus_dist='0.1351' token-doc-diff='0.0003' exclusivity='0.7937'>servlet</word>
+<word rank='8' count='1' prob='0.03125' cumulative='0.90625' docs='1' word-length='7.0000' coherence='-6.7993' uniform_dist='0.0766' corpus_dist='0.1351' token-doc-diff='0.0003' exclusivity='0.7937'>hamster</word>
+<word rank='9' count='1' prob='0.03125' cumulative='0.93750' docs='1' word-length='3.0000' coherence='-6.7993' uniform_dist='0.0766' corpus_dist='0.1351' token-doc-diff='0.0003' exclusivity='0.7937'>dog</word>
+<word rank='10' count='1' prob='0.03125' cumulative='0.96875' docs='1' word-length='3.0000' coherence='-6.7993' uniform_dist='0.0766' corpus_dist='0.1351' token-doc-diff='0.0003' exclusivity='0.7937'>cat</word>
+</topic>
+<topic id='30' tokens='7.0000' document_entropy='0.0000' word-length='1.9000' coherence='-91.2467' uniform_dist='5.5061' corpus_dist='5.8444' eff_num_words='1.3243' token-doc-diff='0.0763' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.1931'>
+<word rank='1' count='6' prob='0.85714' cumulative='0.85714' docs='1' word-length='11.0000' coherence='0.0000' uniform_dist='4.9389' corpus_dist='5.0095' token-doc-diff='0.0238' exclusivity='0.9898'>description</word>
+<word rank='2' count='1' prob='0.14286' cumulative='1.00000' docs='1' word-length='8.0000' coherence='0.0000' uniform_dist='0.5672' corpus_dist='0.8349' token-doc-diff='0.0525' exclusivity='0.9417'>tomorrow</word>
+</topic>
+<topic id='31' tokens='22.0000' document_entropy='0.4741' word-length='3.5000' coherence='-164.3510' uniform_dist='4.3348' corpus_dist='4.6255' eff_num_words='4.3214' token-doc-diff='0.0382' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.5211'>
+<word rank='1' count='7' prob='0.31818' cumulative='0.31818' docs='2' word-length='5.0000' coherence='0.0000' uniform_dist='1.5181' corpus_dist='1.4952' token-doc-diff='0.0021' exclusivity='0.9748'>error</word>
+<word rank='2' count='6' prob='0.27273' cumulative='0.59091' docs='1' word-length='7.0000' coherence='-0.6915' uniform_dist='1.2592' corpus_dist='1.2816' token-doc-diff='0.0141' exclusivity='0.9707'>results</word>
+<word rank='3' count='4' prob='0.18182' cumulative='0.77273' docs='2' word-length='4.0000' coherence='0.0000' uniform_dist='0.7657' corpus_dist='0.7807' token-doc-diff='0.0027' exclusivity='0.6282'>view</word>
+<word rank='4' count='3' prob='0.13636' cumulative='0.90909' docs='1' word-length='3.0000' coherence='-0.6915' uniform_dist='0.5351' corpus_dist='0.6408' token-doc-diff='0.0001' exclusivity='0.9431'>mav</word>
+<word rank='5' count='1' prob='0.04545' cumulative='0.95455' docs='1' word-length='8.0000' coherence='-0.6915' uniform_dist='0.1284' corpus_dist='0.2136' token-doc-diff='0.0097' exclusivity='0.8470'>updating</word>
+<word rank='6' count='1' prob='0.04545' cumulative='1.00000' docs='1' word-length='8.0000' coherence='-5.7029' uniform_dist='0.1284' corpus_dist='0.2136' token-doc-diff='0.0097' exclusivity='0.8470'>resolves</word>
+</topic>
+<topic id='32' tokens='11.0000' document_entropy='0.3046' word-length='5.4000' coherence='-131.1671' uniform_dist='3.8964' corpus_dist='4.3668' eff_num_words='7.1176' token-doc-diff='0.0147' rank_1_docs='0.5000' allocation_ratio='0.0000' allocation_count='0.5000' exclusivity='0.5355'>
+<word rank='1' count='2' prob='0.18182' cumulative='0.18182' docs='1' word-length='6.0000' coherence='0.0000' uniform_dist='0.7657' corpus_dist='0.9804' token-doc-diff='0.0026' exclusivity='0.9552'>thrown</word>
+<word rank='2' count='2' prob='0.18182' cumulative='0.36364' docs='1' word-length='9.0000' coherence='0.0000' uniform_dist='0.7657' corpus_dist='0.6024' token-doc-diff='0.0026' exclusivity='0.5141'>exception</word>
+<word rank='3' count='2' prob='0.18182' cumulative='0.54545' docs='1' word-length='8.0000' coherence='0.0000' uniform_dist='0.7657' corpus_dist='0.9804' token-doc-diff='0.0026' exclusivity='0.9552'>showcase</word>
+<word rank='4' count='1' prob='0.09091' cumulative='0.63636' docs='1' word-length='9.0000' coherence='-5.7029' uniform_dist='0.3198' corpus_dist='0.4902' token-doc-diff='0.0014' exclusivity='0.9144'>dentistry</word>
+<word rank='5' count='1' prob='0.09091' cumulative='0.72727' docs='1' word-length='4.0000' coherence='-5.7029' uniform_dist='0.3198' corpus_dist='0.3439' token-doc-diff='0.0014' exclusivity='0.4220'>html</word>
+<word rank='6' count='1' prob='0.09091' cumulative='0.81818' docs='1' word-length='5.0000' coherence='-5.7029' uniform_dist='0.3198' corpus_dist='0.4902' token-doc-diff='0.0014' exclusivity='0.9144'>crash</word>
+<word rank='7' count='1' prob='0.09091' cumulative='0.90909' docs='1' word-length='7.0000' coherence='-5.7029' uniform_dist='0.3198' corpus_dist='0.3642' token-doc-diff='0.0014' exclusivity='0.5206'>runtime</word>
+<word rank='8' count='1' prob='0.09091' cumulative='1.00000' docs='1' word-length='6.0000' coherence='-5.7029' uniform_dist='0.3198' corpus_dist='0.1150' token-doc-diff='0.0014' exclusivity='0.1592'>author</word>
+</topic>
+<topic id='33' tokens='70.0000' document_entropy='2.4996' word-length='5.5000' coherence='-156.1405' uniform_dist='3.9154' corpus_dist='3.2925' eff_num_words='6.1713' token-doc-diff='0.0100' rank_1_docs='0.0714' allocation_ratio='0.0000' allocation_count='0.0714' exclusivity='0.6395'>
+<word rank='1' count='19' prob='0.27143' cumulative='0.27143' docs='9' word-length='3.0000' coherence='0.0000' uniform_dist='1.2519' corpus_dist='0.8374' token-doc-diff='0.0076' exclusivity='0.7543'>set</word>
+<word rank='2' count='12' prob='0.17143' cumulative='0.44286' docs='11' word-length='6.0000' coherence='-0.1177' uniform_dist='0.7119' corpus_dist='0.5934' token-doc-diff='0.0003' exclusivity='0.7955'>object</word>
+<word rank='3' count='10' prob='0.14286' cumulative='0.58571' docs='9' word-length='4.0000' coherence='-0.3183' uniform_dist='0.5672' corpus_dist='0.5060' token-doc-diff='0.0002' exclusivity='0.9467'>bean</word>
+<word rank='4' count='9' prob='0.12857' cumulative='0.71429' docs='9' word-length='6.0000' coherence='-0.2512' uniform_dist='0.4969' corpus_dist='0.4554' token-doc-diff='0.0008' exclusivity='0.9412'>simple</word>
+<word rank='5' count='8' prob='0.11429' cumulative='0.82857' docs='7' word-length='4.0000' coherence='-0.6059' uniform_dist='0.4282' corpus_dist='0.3584' token-doc-diff='0.0001' exclusivity='0.6123'>size</word>
+<word rank='6' count='6' prob='0.08571' cumulative='0.91429' docs='6' word-length='12.0000' coherence='-0.8105' uniform_dist='0.2965' corpus_dist='0.3036' token-doc-diff='0.0005' exclusivity='0.9143'>representing</word>
+<word rank='7' count='2' prob='0.02857' cumulative='0.94286' docs='2' word-length='8.0000' coherence='-7.6460' uniform_dist='0.0675' corpus_dist='0.0616' token-doc-diff='0.0002' exclusivity='0.0628'>override</word>
+<word rank='8' count='1' prob='0.01429' cumulative='0.95714' docs='1' word-length='4.0000' coherence='-7.8972' uniform_dist='0.0238' corpus_dist='0.0506' token-doc-diff='0.0001' exclusivity='0.6407'>part</word>
+<word rank='9' count='1' prob='0.01429' cumulative='0.97143' docs='1' word-length='6.0000' coherence='-6.3944' uniform_dist='0.0238' corpus_dist='0.0349' token-doc-diff='0.0001' exclusivity='0.0863'>format</word>
+<word rank='10' count='1' prob='0.01429' cumulative='0.98571' docs='1' word-length='2.0000' coherence='-8.0978' uniform_dist='0.0238' corpus_dist='0.0506' token-doc-diff='0.0001' exclusivity='0.6407'>de</word>
+</topic>
+<topic id='34' tokens='37.0000' document_entropy='1.5125' word-length='5.9000' coherence='-114.5425' uniform_dist='4.2128' corpus_dist='3.6553' eff_num_words='3.9003' token-doc-diff='0.0279' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.6664'>
+<word rank='1' count='15' prob='0.40541' cumulative='0.40541' docs='5' word-length='10.0000' coherence='0.0000' uniform_dist='2.0324' corpus_dist='1.5210' token-doc-diff='0.0127' exclusivity='0.8762'>repository</word>
+<word rank='2' count='10' prob='0.27027' cumulative='0.67568' docs='5' word-length='4.0000' coherence='0.0000' uniform_dist='1.2454' corpus_dist='0.8513' token-doc-diff='0.0009' exclusivity='0.5802'>find</word>
+<word rank='3' count='4' prob='0.10811' cumulative='0.78378' docs='4' word-length='4.0000' coherence='-0.2230' uniform_dist='0.3991' corpus_dist='0.4277' token-doc-diff='0.0047' exclusivity='0.5390'>html</word>
+<word rank='4' count='2' prob='0.05405' cumulative='0.83784' docs='2' word-length='4.0000' coherence='-0.9153' uniform_dist='0.1621' corpus_dist='0.2259' token-doc-diff='0.0024' exclusivity='0.8696'>mark</word>
+<word rank='5' count='1' prob='0.02703' cumulative='0.86486' docs='1' word-length='4.0000' coherence='-1.6068' uniform_dist='0.0623' corpus_dist='0.1130' token-doc-diff='0.0012' exclusivity='0.7695'>body</word>
+<word rank='6' count='1' prob='0.02703' cumulative='0.89189' docs='1' word-length='9.0000' coherence='-5.7029' uniform_dist='0.0623' corpus_dist='0.1130' token-doc-diff='0.0012' exclusivity='0.7695'>component</word>
+<word rank='7' count='1' prob='0.02703' cumulative='0.91892' docs='1' word-length='3.0000' coherence='-5.7029' uniform_dist='0.0623' corpus_dist='0.1130' token-doc-diff='0.0012' exclusivity='0.7695'>ref</word>
+<word rank='8' count='1' prob='0.02703' cumulative='0.94595' docs='1' word-length='10.0000' coherence='-5.7029' uniform_dist='0.0623' corpus_dist='0.1130' token-doc-diff='0.0012' exclusivity='0.7695'>formatters</word>
+<word rank='9' count='1' prob='0.02703' cumulative='0.97297' docs='1' word-length='3.0000' coherence='-6.3944' uniform_dist='0.0623' corpus_dist='0.0942' token-doc-diff='0.0012' exclusivity='0.5309'>jpa</word>
+<word rank='10' count='1' prob='0.02703' cumulative='1.00000' docs='1' word-length='8.0000' coherence='-6.3944' uniform_dist='0.0623' corpus_dist='0.0833' token-doc-diff='0.0012' exclusivity='0.1901'>provided</word>
+</topic>
+<topic id='35' tokens='18.0000' document_entropy='0.8839' word-length='4.2000' coherence='-167.8241' uniform_dist='4.2447' corpus_dist='4.8999' eff_num_words='4.2632' token-doc-diff='0.0174' rank_1_docs='0.2500' allocation_ratio='0.0000' allocation_count='0.2500' exclusivity='0.6415'>
+<word rank='1' count='7' prob='0.38889' cumulative='0.38889' docs='3' word-length='11.0000' coherence='0.0000' uniform_dist='1.9335' corpus_dist='1.9055' token-doc-diff='0.0051' exclusivity='0.9791'>application</word>
+<word rank='2' count='4' prob='0.22222' cumulative='0.61111' docs='2' word-length='6.0000' coherence='-1.0964' uniform_dist='0.9805' corpus_dist='1.0889' token-doc-diff='0.0010' exclusivity='0.9640'>clinic</word>
+<word rank='3' count='2' prob='0.11111' cumulative='0.72222' docs='2' word-length='3.0000' coherence='-0.6915' uniform_dist='0.4132' corpus_dist='0.5444' token-doc-diff='0.0043' exclusivity='0.9305'>run</word>
+<word rank='4' count='2' prob='0.11111' cumulative='0.83333' docs='1' word-length='4.0000' coherence='-1.0964' uniform_dist='0.4132' corpus_dist='0.5444' token-doc-diff='0.0005' exclusivity='0.9305'>boot</word>
+<word rank='5' count='1' prob='0.05556' cumulative='0.88889' docs='1' word-length='10.0000' coherence='-6.3944' uniform_dist='0.1681' corpus_dist='0.2722' token-doc-diff='0.0022' exclusivity='0.8703'>accessible</word>
+<word rank='6' count='1' prob='0.05556' cumulative='0.94444' docs='1' word-length='4.0000' coherence='-5.7029' uniform_dist='0.1681' corpus_dist='0.2722' token-doc-diff='0.0022' exclusivity='0.8703'>args</word>
+<word rank='7' count='1' prob='0.05556' cumulative='1.00000' docs='1' word-length='4.0000' coherence='-5.7029' uniform_dist='0.1681' corpus_dist='0.2722' token-doc-diff='0.0022' exclusivity='0.8703'>main</word>
+</topic>
+<topic id='36' tokens='28.0000' document_entropy='0.0000' word-length='7.4000' coherence='0.0000' uniform_dist='3.6549' corpus_dist='3.9932' eff_num_words='7.3962' token-doc-diff='0.0685' rank_1_docs='1.0000' allocation_ratio='0.0000' allocation_count='1.0000' exclusivity='0.7714'>
+<word rank='1' count='7' prob='0.25000' cumulative='0.25000' docs='1' word-length='8.0000' coherence='0.0000' uniform_dist='1.1325' corpus_dist='1.1145' token-doc-diff='0.0222' exclusivity='0.9683'>required</word>
+<word rank='2' count='5' prob='0.17857' cumulative='0.42857' docs='1' word-length='6.0000' coherence='0.0000' uniform_dist='0.7488' corpus_dist='0.6723' token-doc-diff='0.0085' exclusivity='0.7964'>errors</word>
+<word rank='3' count='4' prob='0.14286' cumulative='0.57143' docs='1' word-length='6.0000' coherence='0.0000' uniform_dist='0.5672' corpus_dist='0.4685' token-doc-diff='0.0035' exclusivity='0.4575'>reject</word>
+<word rank='4' count='2' prob='0.07143' cumulative='0.64286' docs='1' word-length='3.0000' coherence='0.0000' uniform_dist='0.2341' corpus_dist='0.2400' token-doc-diff='0.0006' exclusivity='0.5232'>max</word>
+<word rank='5' count='2' prob='0.07143' cumulative='0.71429' docs='1' word-length='10.0000' coherence='0.0000' uniform_dist='0.2341' corpus_dist='0.3184' token-doc-diff='0.0006' exclusivity='0.8974'>validation</word>
+<word rank='6' count='1' prob='0.03571' cumulative='0.75000' docs='1' word-length='5.0000' coherence='0.0000' uniform_dist='0.0923' corpus_dist='0.1592' token-doc-diff='0.0066' exclusivity='0.8142'>clazz</word>
+<word rank='7' count='1' prob='0.03571' cumulative='0.78571' docs='1' word-length='10.0000' coherence='0.0000' uniform_dist='0.0923' corpus_dist='0.1592' token-doc-diff='0.0066' exclusivity='0.8142'>assignable</word>
+<word rank='8' count='1' prob='0.03571' cumulative='0.82143' docs='1' word-length='9.0000' coherence='0.0000' uniform_dist='0.0923' corpus_dist='0.1592' token-doc-diff='0.0066' exclusivity='0.8142'>instances</word>
+<word rank='9' count='1' prob='0.03571' cumulative='0.85714' docs='1' word-length='9.0000' coherence='0.0000' uniform_dist='0.0923' corpus_dist='0.1592' token-doc-diff='0.0066' exclusivity='0.8142'>validates</word>
+<word rank='10' count='1' prob='0.03571' cumulative='0.89286' docs='1' word-length='8.0000' coherence='0.0000' uniform_dist='0.0923' corpus_dist='0.1592' token-doc-diff='0.0066' exclusivity='0.8142'>supports</word>
+</topic>
+<topic id='37' tokens='62.0000' document_entropy='0.8308' word-length='5.2000' coherence='-10.2724' uniform_dist='3.8029' corpus_dist='3.2132' eff_num_words='6.8399' token-doc-diff='0.0540' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.6760'>
+<word rank='1' count='15' prob='0.24194' cumulative='0.24194' docs='2' word-length='5.0000' coherence='0.0000' uniform_dist='1.0880' corpus_dist='0.7106' token-doc-diff='0.0172' exclusivity='0.6589'>model</word>
+<word rank='2' count='13' prob='0.20968' cumulative='0.45161' docs='2' word-length='4.0000' coherence='0.0000' uniform_dist='0.9129' corpus_dist='0.6885' token-doc-diff='0.0116' exclusivity='0.4146'>list</word>
+<word rank='3' count='7' prob='0.11290' cumulative='0.56452' docs='3' word-length='5.0000' coherence='0.0000' uniform_dist='0.4217' corpus_dist='0.4136' token-doc-diff='0.0008' exclusivity='0.9335'>pages</word>
+<word rank='4' count='6' prob='0.09677' cumulative='0.66129' docs='2' word-length='5.0000' coherence='-0.4049' uniform_dist='0.3465' corpus_dist='0.2958' token-doc-diff='0.0000' exclusivity='0.5548'>total</word>
+<word rank='5' count='6' prob='0.09677' cumulative='0.75806' docs='2' word-length='8.0000' coherence='-0.4049' uniform_dist='0.3465' corpus_dist='0.3153' token-doc-diff='0.0000' exclusivity='0.6379'>pageable</word>
+<word rank='6' count='4' prob='0.06452' cumulative='0.82258' docs='2' word-length='4.0000' coherence='-0.4049' uniform_dist='0.2049' corpus_dist='0.2363' token-doc-diff='0.0014' exclusivity='0.8891'>math</word>
+<word rank='7' count='4' prob='0.06452' cumulative='0.88710' docs='3' word-length='4.0000' coherence='-0.4049' uniform_dist='0.2049' corpus_dist='0.1655' token-doc-diff='0.0073' exclusivity='0.3450'>size</word>
+<word rank='8' count='3' prob='0.04839' cumulative='0.93548' docs='2' word-length='4.0000' coherence='-0.4049' uniform_dist='0.1397' corpus_dist='0.1772' token-doc-diff='0.0037' exclusivity='0.8575'>show</word>
+<word rank='9' count='2' prob='0.03226' cumulative='0.96774' docs='2' word-length='5.0000' coherence='-0.4049' uniform_dist='0.0801' corpus_dist='0.1182' token-doc-diff='0.0080' exclusivity='0.8006'>items</word>
+<word rank='10' count='1' prob='0.01613' cumulative='0.98387' docs='1' word-length='8.0000' coherence='-1.0964' uniform_dist='0.0289' corpus_dist='0.0591' token-doc-diff='0.0040' exclusivity='0.6678'>response</word>
+</topic>
+<topic id='38' tokens='29.0000' document_entropy='1.7212' word-length='5.8000' coherence='-148.2415' uniform_dist='4.0896' corpus_dist='4.0875' eff_num_words='4.4497' token-doc-diff='0.0155' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.5845'>
+<word rank='1' count='11' prob='0.37931' cumulative='0.37931' docs='5' word-length='6.0000' coherence='0.0000' uniform_dist='1.8764' corpus_dist='1.6777' token-doc-diff='0.0067' exclusivity='0.9789'>column</word>
+<word rank='2' count='7' prob='0.24138' cumulative='0.62069' docs='4' word-length='5.0000' coherence='-0.2230' uniform_dist='1.0850' corpus_dist='1.0676' token-doc-diff='0.0010' exclusivity='0.9673'>blank</word>
+<word rank='3' count='3' prob='0.10345' cumulative='0.72414' docs='3' word-length='5.0000' coherence='-0.6923' uniform_dist='0.3773' corpus_dist='0.3699' token-doc-diff='0.0021' exclusivity='0.6659'>dynex</word>
+<word rank='4' count='2' prob='0.06897' cumulative='0.79310' docs='2' word-length='6.0000' coherence='-1.6068' uniform_dist='0.2236' corpus_dist='0.2771' token-doc-diff='0.0014' exclusivity='0.6118'>mapped</word>
+<word rank='5' count='1' prob='0.03448' cumulative='0.82759' docs='1' word-length='10.0000' coherence='-1.6068' uniform_dist='0.0879' corpus_dist='0.1525' token-doc-diff='0.0007' exclusivity='0.8090'>properties</word>
+<word rank='6' count='1' prob='0.03448' cumulative='0.86207' docs='1' word-length='5.0000' coherence='-1.6068' uniform_dist='0.0879' corpus_dist='0.1286' token-doc-diff='0.0007' exclusivity='0.3669'>named</word>
+<word rank='7' count='1' prob='0.03448' cumulative='0.89655' docs='1' word-length='6.0000' coherence='-7.0867' uniform_dist='0.0879' corpus_dist='0.1146' token-doc-diff='0.0007' exclusivity='0.2032'>format</word>
+<word rank='8' count='1' prob='0.03448' cumulative='0.93103' docs='1' word-length='8.0000' coherence='-7.3097' uniform_dist='0.0879' corpus_dist='0.1525' token-doc-diff='0.0007' exclusivity='0.8090'>intended</word>
+<word rank='9' count='1' prob='0.03448' cumulative='0.96552' docs='1' word-length='4.0000' coherence='-5.7029' uniform_dist='0.0879' corpus_dist='0.0854' token-doc-diff='0.0007' exclusivity='0.2190'>wick</word>
+<word rank='10' count='1' prob='0.03448' cumulative='1.00000' docs='1' word-length='3.0000' coherence='-6.7993' uniform_dist='0.0879' corpus_dist='0.0615' token-doc-diff='0.0007' exclusivity='0.2139'>ken</word>
+</topic>
+<topic id='39' tokens='48.0000' document_entropy='1.3156' word-length='2.3000' coherence='-189.5650' uniform_dist='4.9312' corpus_dist='3.9191' eff_num_words='2.2500' token-doc-diff='0.0290' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.4244'>
+<word rank='1' count='27' prob='0.56250' cumulative='0.56250' docs='6' word-length='3.0000' coherence='0.0000' uniform_dist='3.0042' corpus_dist='2.2045' token-doc-diff='0.0009' exclusivity='0.9858'>vet</word>
+<word rank='2' count='17' prob='0.35417' cumulative='0.91667' docs='3' word-length='4.0000' coherence='-1.0975' uniform_dist='1.7277' corpus_dist='1.3880' token-doc-diff='0.0045' exclusivity='0.9777'>vets</word>
+<word rank='3' count='2' prob='0.04167' cumulative='0.95833' docs='1' word-length='4.0000' coherence='-1.7890' uniform_dist='0.1141' corpus_dist='0.1633' token-doc-diff='0.0035' exclusivity='0.8378'>safe</word>
+<word rank='4' count='1' prob='0.02083' cumulative='0.97917' docs='1' word-length='6.0000' coherence='-6.7993' uniform_dist='0.0426' corpus_dist='0.0816' token-doc-diff='0.0100' exclusivity='0.7212'>sorted</word>
+<word rank='5' count='1' prob='0.02083' cumulative='1.00000' docs='1' word-length='6.0000' coherence='-6.7993' uniform_dist='0.0426' corpus_dist='0.0816' token-doc-diff='0.0100' exclusivity='0.7212'>stream</word>
+</topic>
+<topic id='40' tokens='27.0000' document_entropy='0.2641' word-length='6.6000' coherence='-6.2233' uniform_dist='4.1622' corpus_dist='4.3685' eff_num_words='3.3594' token-doc-diff='0.0855' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.8158'>
+<word rank='1' count='14' prob='0.51852' cumulative='0.51852' docs='2' word-length='6.0000' coherence='0.0000' uniform_dist='2.7271' corpus_dist='2.3305' token-doc-diff='0.0462' exclusivity='0.9845'>locale</word>
+<word rank='2' count='3' prob='0.11111' cumulative='0.62963' docs='1' word-length='4.0000' coherence='-0.6915' uniform_dist='0.4132' corpus_dist='0.4994' token-doc-diff='0.0007' exclusivity='0.9315'>lang</word>
+<word rank='3' count='2' prob='0.07407' cumulative='0.70370' docs='1' word-length='7.0000' coherence='-0.6915' uniform_dist='0.2454' corpus_dist='0.3329' token-doc-diff='0.0003' exclusivity='0.9006'>english</word>
+<word rank='4' count='1' prob='0.03704' cumulative='0.74074' docs='1' word-length='7.0000' coherence='-0.6915' uniform_dist='0.0971' corpus_dist='0.1665' token-doc-diff='0.0055' exclusivity='0.8195'>setting</word>
+<word rank='5' count='1' prob='0.03704' cumulative='0.77778' docs='1' word-length='8.0000' coherence='-0.6915' uniform_dist='0.0971' corpus_dist='0.1665' token-doc-diff='0.0055' exclusivity='0.8195'>remember</word>
+<word rank='6' count='1' prob='0.03704' cumulative='0.81481' docs='1' word-length='9.0000' coherence='-0.6915' uniform_dist='0.0971' corpus_dist='0.1665' token-doc-diff='0.0055' exclusivity='0.8195'>languages</word>
+<word rank='7' count='1' prob='0.03704' cumulative='0.85185' docs='1' word-length='3.0000' coherence='-0.6915' uniform_dist='0.0971' corpus_dist='0.1665' token-doc-diff='0.0055' exclusivity='0.8195'>app</word>
+<word rank='8' count='1' prob='0.03704' cumulative='0.88889' docs='1' word-length='7.0000' coherence='-0.6915' uniform_dist='0.0971' corpus_dist='0.1069' token-doc-diff='0.0055' exclusivity='0.4247'>request</word>
+<word rank='9' count='1' prob='0.03704' cumulative='0.92593' docs='1' word-length='8.0000' coherence='-0.6915' uniform_dist='0.0971' corpus_dist='0.1665' token-doc-diff='0.0055' exclusivity='0.8195'>suppress</word>
+<word rank='10' count='1' prob='0.03704' cumulative='0.96296' docs='1' word-length='7.0000' coherence='-0.6915' uniform_dist='0.0971' corpus_dist='0.1665' token-doc-diff='0.0055' exclusivity='0.8195'>support</word>
+</topic>
+<topic id='41' tokens='27.0000' document_entropy='0.1584' word-length='6.0000' coherence='-96.9496' uniform_dist='3.9945' corpus_dist='4.2519' eff_num_words='5.7402' token-doc-diff='0.0700' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.6213'>
+<word rank='1' count='7' prob='0.25926' cumulative='0.25926' docs='1' word-length='9.0000' coherence='0.0000' uniform_dist='1.1838' corpus_dist='1.1652' token-doc-diff='0.0152' exclusivity='0.9694'>duplicate</word>
+<word rank='2' count='6' prob='0.22222' cumulative='0.48148' docs='1' word-length='9.0000' coherence='0.0000' uniform_dist='0.9805' corpus_dist='0.9988' token-doc-diff='0.0094' exclusivity='0.9645'>violation</word>
+<word rank='3' count='5' prob='0.18519' cumulative='0.66667' docs='1' word-length='7.0000' coherence='0.0000' uniform_dist='0.7833' corpus_dist='0.7700' token-doc-diff='0.0047' exclusivity='0.8601'>details</word>
+<word rank='4' count='3' prob='0.11111' cumulative='0.77778' docs='1' word-length='9.0000' coherence='0.0000' uniform_dist='0.4132' corpus_dist='0.4994' token-doc-diff='0.0000' exclusivity='0.9315'>integrity</word>
+<word rank='5' count='2' prob='0.07407' cumulative='0.85185' docs='1' word-length='5.0000' coherence='0.0000' uniform_dist='0.2454' corpus_dist='0.3329' token-doc-diff='0.0019' exclusivity='0.9006'>flush</word>
+<word rank='6' count='1' prob='0.03704' cumulative='0.88889' docs='1' word-length='6.0000' coherence='0.0000' uniform_dist='0.0971' corpus_dist='0.1665' token-doc-diff='0.0097' exclusivity='0.8195'>unique</word>
+<word rank='7' count='1' prob='0.03704' cumulative='0.92593' docs='1' word-length='4.0000' coherence='0.0000' uniform_dist='0.0971' corpus_dist='0.1069' token-doc-diff='0.0097' exclusivity='0.1880'>true</word>
+<word rank='8' count='1' prob='0.03704' cumulative='0.96296' docs='1' word-length='5.0000' coherence='0.0000' uniform_dist='0.0971' corpus_dist='0.1408' token-doc-diff='0.0097' exclusivity='0.4113'>false</word>
+<word rank='9' count='1' prob='0.03704' cumulative='1.00000' docs='1' word-length='6.0000' coherence='-5.7029' uniform_dist='0.0971' corpus_dist='0.0715' token-doc-diff='0.0097' exclusivity='0.1677'>object</word>
+</topic>
+<topic id='42' tokens='57.0000' document_entropy='1.0809' word-length='4.0000' coherence='-154.3109' uniform_dist='4.2825' corpus_dist='3.4845' eff_num_words='4.4325' token-doc-diff='0.0436' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.4446'>
+<word rank='1' count='20' prob='0.35088' cumulative='0.35088' docs='3' word-length='6.0000' coherence='0.0000' uniform_dist='1.7084' corpus_dist='1.3148' token-doc-diff='0.0168' exclusivity='0.9776'>result</word>
+<word rank='2' count='12' prob='0.21053' cumulative='0.56140' docs='3' word-length='9.0000' coherence='0.0000' uniform_dist='0.9175' corpus_dist='0.6344' token-doc-diff='0.0013' exclusivity='0.5360'>attribute</word>
+<word rank='3' count='9' prob='0.15789' cumulative='0.71930' docs='3' word-length='7.0000' coherence='0.0000' uniform_dist='0.6427' corpus_dist='0.5917' token-doc-diff='0.0001' exclusivity='0.9515'>message</word>
+<word rank='4' count='9' prob='0.15789' cumulative='0.87719' docs='3' word-length='6.0000' coherence='0.0000' uniform_dist='0.6427' corpus_dist='0.5336' token-doc-diff='0.0001' exclusivity='0.5166'>reject</word>
+<word rank='5' count='5' prob='0.08772' cumulative='0.96491' docs='4' word-length='3.0000' coherence='0.0000' uniform_dist='0.3055' corpus_dist='0.3127' token-doc-diff='0.0151' exclusivity='0.6649'>web</word>
+<word rank='6' count='1' prob='0.01754' cumulative='0.98246' docs='1' word-length='5.0000' coherence='-1.3838' uniform_dist='0.0329' corpus_dist='0.0657' token-doc-diff='0.0052' exclusivity='0.6859'>goals</word>
+<word rank='7' count='1' prob='0.01754' cumulative='1.00000' docs='1' word-length='4.0000' coherence='-5.7029' uniform_dist='0.0329' corpus_dist='0.0316' token-doc-diff='0.0052' exclusivity='0.1137'>wick</word>
+</topic>
+<topic id='43' tokens='72.0000' document_entropy='0.6931' word-length='5.4000' coherence='-105.7677' uniform_dist='4.2455' corpus_dist='3.3020' eff_num_words='4.0500' token-doc-diff='0.0847' rank_1_docs='0.5000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.5267'>
+<word rank='1' count='30' prob='0.41667' cumulative='0.41667' docs='2' word-length='4.0000' coherence='0.0000' uniform_dist='2.1003' corpus_dist='1.4640' token-doc-diff='0.0383' exclusivity='0.9811'>page</word>
+<word rank='2' count='13' prob='0.18056' cumulative='0.59722' docs='2' word-length='9.0000' coherence='0.0000' uniform_dist='0.7591' corpus_dist='0.6344' token-doc-diff='0.0018' exclusivity='0.9574'>paginated</word>
+<word rank='3' count='12' prob='0.16667' cumulative='0.76389' docs='2' word-length='9.0000' coherence='0.0000' uniform_dist='0.6874' corpus_dist='0.4633' token-doc-diff='0.0009' exclusivity='0.4263'>attribute</word>
+<word rank='4' count='5' prob='0.06944' cumulative='0.83333' docs='2' word-length='5.0000' coherence='0.0000' uniform_dist='0.2256' corpus_dist='0.1892' token-doc-diff='0.0051' exclusivity='0.3993'>total</word>
+<word rank='5' count='4' prob='0.05556' cumulative='0.88889' docs='2' word-length='10.0000' coherence='0.0000' uniform_dist='0.1681' corpus_dist='0.1952' token-doc-diff='0.0082' exclusivity='0.8737'>pagination</word>
+<word rank='6' count='4' prob='0.05556' cumulative='0.94444' docs='2' word-length='3.0000' coherence='0.0000' uniform_dist='0.1681' corpus_dist='0.1727' token-doc-diff='0.0082' exclusivity='0.4174'>max</word>
+<word rank='7' count='3' prob='0.04167' cumulative='0.98611' docs='2' word-length='8.0000' coherence='0.0000' uniform_dist='0.1141' corpus_dist='0.1344' token-doc-diff='0.0126' exclusivity='0.5775'>elements</word>
+<word rank='8' count='1' prob='0.01389' cumulative='1.00000' docs='1' word-length='6.0000' coherence='-0.6915' uniform_dist='0.0228' corpus_dist='0.0488' token-doc-diff='0.0094' exclusivity='0.6343'>custom</word>
+</topic>
+<topic id='44' tokens='197.0000' document_entropy='1.2550' word-length='6.0000' coherence='-16.8979' uniform_dist='4.4034' corpus_dist='2.4172' eff_num_words='2.5192' token-doc-diff='0.1556' rank_1_docs='0.2000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.6464'>
+<word rank='1' count='121' prob='0.61421' cumulative='0.61421' docs='4' word-length='5.0000' coherence='0.0000' uniform_dist='3.3344' corpus_dist='1.4864' token-doc-diff='0.0885' exclusivity='0.7725'>owner</word>
+<word rank='2' count='16' prob='0.08122' cumulative='0.69543' docs='4' word-length='8.0000' coherence='0.0000' uniform_dist='0.2766' corpus_dist='0.2036' token-doc-diff='0.0026' exclusivity='0.9106'>optional</word>
+<word rank='3' count='14' prob='0.07107' cumulative='0.76650' docs='3' word-length='7.0000' coherence='-0.2874' uniform_dist='0.2325' corpus_dist='0.1565' token-doc-diff='0.0009' exclusivity='0.2170'>mapping</word>
+<word rank='4' count='12' prob='0.06091' cumulative='0.82741' docs='2' word-length='5.0000' coherence='-0.6923' uniform_dist='0.1899' corpus_dist='0.1527' token-doc-diff='0.0000' exclusivity='0.8842'>views</word>
+<word rank='5' count='7' prob='0.03553' cumulative='0.86294' docs='4' word-length='8.0000' coherence='0.0000' uniform_dist='0.0916' corpus_dist='0.0891' token-doc-diff='0.0139' exclusivity='0.8167'>argument</word>
+<word rank='6' count='5' prob='0.02538' cumulative='0.88832' docs='3' word-length='4.0000' coherence='-0.2874' uniform_dist='0.0569' corpus_dist='0.0636' token-doc-diff='0.0110' exclusivity='0.7610'>save</word>
+<word rank='7' count='5' prob='0.02538' cumulative='0.91371' docs='3' word-length='4.0000' coherence='-0.2874' uniform_dist='0.0569' corpus_dist='0.0636' token-doc-diff='0.0110' exclusivity='0.7610'>post</word>
+<word rank='8' count='5' prob='0.02538' cumulative='0.93909' docs='3' word-length='6.0000' coherence='-0.2874' uniform_dist='0.0569' corpus_dist='0.0636' token-doc-diff='0.0110' exclusivity='0.7610'>ensure</word>
+<word rank='9' count='5' prob='0.02538' cumulative='0.96447' docs='3' word-length='8.0000' coherence='-0.6923' uniform_dist='0.0569' corpus_dist='0.0590' token-doc-diff='0.0110' exclusivity='0.5204'>creation</word>
+<word rank='10' count='4' prob='0.02030' cumulative='0.98477' docs='2' word-length='5.0000' coherence='-1.0964' uniform_dist='0.0410' corpus_dist='0.0464' token-doc-diff='0.0059' exclusivity='0.0600'>empty</word>
+</topic>
+<topic id='45' tokens='5.0000' document_entropy='0.0000' word-length='2.6000' coherence='-119.7613' uniform_dist='4.9659' corpus_dist='6.1808' eff_num_words='2.2727' token-doc-diff='0.0362' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.2897'>
+<word rank='1' count='3' prob='0.60000' cumulative='0.60000' docs='1' word-length='10.0000' coherence='0.0000' uniform_dist='3.2432' corpus_dist='3.7085' token-doc-diff='0.0193' exclusivity='0.9848'>statistics</word>
+<word rank='2' count='1' prob='0.20000' cumulative='0.80000' docs='1' word-length='8.0000' coherence='0.0000' uniform_dist='0.8614' corpus_dist='1.2362' token-doc-diff='0.0084' exclusivity='0.9559'>selected</word>
+<word rank='3' count='1' prob='0.20000' cumulative='1.00000' docs='1' word-length='8.0000' coherence='0.0000' uniform_dist='0.8614' corpus_dist='1.2362' token-doc-diff='0.0084' exclusivity='0.9559'>standard</word>
+</topic>
+<topic id='46' tokens='18.0000' document_entropy='0.2146' word-length='7.1000' coherence='-3.4574' uniform_dist='3.5170' corpus_dist='4.5853' eff_num_words='10.1250' token-doc-diff='0.0219' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.8453'>
+<word rank='1' count='3' prob='0.16667' cumulative='0.16667' docs='1' word-length='3.0000' coherence='0.0000' uniform_dist='0.6874' corpus_dist='0.8167' token-doc-diff='0.0086' exclusivity='0.9526'>api</word>
+<word rank='2' count='2' prob='0.11111' cumulative='0.27778' docs='1' word-length='2.0000' coherence='0.0000' uniform_dist='0.4132' corpus_dist='0.5444' token-doc-diff='0.0014' exclusivity='0.9305'>cm</word>
+<word rank='3' count='2' prob='0.11111' cumulative='0.38889' docs='1' word-length='8.0000' coherence='0.0000' uniform_dist='0.4132' corpus_dist='0.4994' token-doc-diff='0.0014' exclusivity='0.7543'>provided</word>
+<word rank='4' count='2' prob='0.11111' cumulative='0.50000' docs='1' word-length='6.0000' coherence='0.0000' uniform_dist='0.4132' corpus_dist='0.3134' token-doc-diff='0.0014' exclusivity='0.5336'>create</word>
+<word rank='5' count='2' prob='0.11111' cumulative='0.61111' docs='2' word-length='7.0000' coherence='0.0000' uniform_dist='0.4132' corpus_dist='0.5444' token-doc-diff='0.0026' exclusivity='0.9305'>creates</word>
+<word rank='6' count='1' prob='0.05556' cumulative='0.66667' docs='1' word-length='14.0000' coherence='-0.6915' uniform_dist='0.1681' corpus_dist='0.2722' token-doc-diff='0.0013' exclusivity='0.8703'>implementation</word>
+<word rank='7' count='1' prob='0.05556' cumulative='0.72222' docs='1' word-length='9.0000' coherence='-0.6915' uniform_dist='0.1681' corpus_dist='0.2722' token-doc-diff='0.0013' exclusivity='0.8703'>mechanism</word>
+<word rank='8' count='1' prob='0.05556' cumulative='0.77778' docs='1' word-length='8.0000' coherence='-0.6915' uniform_dist='0.1681' corpus_dist='0.2722' token-doc-diff='0.0013' exclusivity='0.8703'>relevant</word>
+<word rank='9' count='1' prob='0.05556' cumulative='0.83333' docs='1' word-length='7.0000' coherence='-0.6915' uniform_dist='0.1681' corpus_dist='0.2722' token-doc-diff='0.0013' exclusivity='0.8703'>limited</word>
+<word rank='10' count='1' prob='0.05556' cumulative='0.88889' docs='1' word-length='7.0000' coherence='-0.6915' uniform_dist='0.1681' corpus_dist='0.2722' token-doc-diff='0.0013' exclusivity='0.8703'>caching</word>
+</topic>
+<topic id='47' tokens='54.0000' document_entropy='1.2557' word-length='5.4000' coherence='-96.2385' uniform_dist='4.6604' corpus_dist='3.6782' eff_num_words='1.9756' token-doc-diff='0.1308' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.6442'>
+<word rank='1' count='38' prob='0.70370' cumulative='0.70370' docs='4' word-length='5.0000' coherence='0.0000' uniform_dist='3.9160' corpus_dist='2.6750' token-doc-diff='0.0686' exclusivity='0.9887'>visit</word>
+<word rank='2' count='3' prob='0.05556' cumulative='0.75926' docs='3' word-length='4.0000' coherence='-0.6923' uniform_dist='0.1681' corpus_dist='0.2112' token-doc-diff='0.0142' exclusivity='0.8733'>syer</word>
+<word rank='3' count='3' prob='0.05556' cumulative='0.81481' docs='3' word-length='4.0000' coherence='-0.6923' uniform_dist='0.1681' corpus_dist='0.2112' token-doc-diff='0.0142' exclusivity='0.8733'>dave</word>
+<word rank='4' count='2' prob='0.03704' cumulative='0.85185' docs='1' word-length='3.0000' coherence='-1.3838' uniform_dist='0.0971' corpus_dist='0.1408' token-doc-diff='0.0009' exclusivity='0.8214'>put</word>
+<word rank='5' count='2' prob='0.03704' cumulative='0.88889' docs='2' word-length='4.0000' coherence='-0.6923' uniform_dist='0.0971' corpus_dist='0.1408' token-doc-diff='0.0095' exclusivity='0.8214'>days</word>
+<word rank='6' count='1' prob='0.01852' cumulative='0.90741' docs='1' word-length='9.0000' coherence='-1.3838' uniform_dist='0.0357' corpus_dist='0.0704' token-doc-diff='0.0047' exclusivity='0.6973'>annotated</word>
+<word rank='7' count='1' prob='0.01852' cumulative='0.92593' docs='1' word-length='8.0000' coherence='-5.7029' uniform_dist='0.0357' corpus_dist='0.0704' token-doc-diff='0.0047' exclusivity='0.6973'>instance</word>
+<word rank='8' count='1' prob='0.01852' cumulative='0.94444' docs='1' word-length='5.0000' coherence='-5.7029' uniform_dist='0.0357' corpus_dist='0.0260' token-doc-diff='0.0047' exclusivity='0.1351'>local</word>
+<word rank='9' count='1' prob='0.01852' cumulative='0.96296' docs='1' word-length='7.0000' coherence='-5.7029' uniform_dist='0.0357' corpus_dist='0.0406' token-doc-diff='0.0047' exclusivity='0.0812'>session</word>
+<word rank='10' count='1' prob='0.01852' cumulative='0.98148' docs='1' word-length='5.0000' coherence='-6.7993' uniform_dist='0.0357' corpus_dist='0.0576' token-doc-diff='0.0047' exclusivity='0.4531'>order</word>
+</topic>
+<topic id='48' tokens='8.0000' document_entropy='0.0000' word-length='4.3000' coherence='-136.8701' uniform_dist='4.1833' corpus_dist='5.1403' eff_num_words='5.3333' token-doc-diff='0.0144' rank_1_docs='0.0000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.4641'>
+<word rank='1' count='2' prob='0.25000' cumulative='0.25000' docs='1' word-length='9.0000' coherence='0.0000' uniform_dist='1.1325' corpus_dist='1.4277' token-doc-diff='0.0042' exclusivity='0.9662'>framework</word>
+<word rank='2' count='2' prob='0.25000' cumulative='0.50000' docs='1' word-length='8.0000' coherence='0.0000' uniform_dist='1.1325' corpus_dist='1.0811' token-doc-diff='0.0042' exclusivity='0.4842'>override</word>
+<word rank='3' count='1' prob='0.12500' cumulative='0.62500' docs='1' word-length='6.0000' coherence='0.0000' uniform_dist='0.4796' corpus_dist='0.6272' token-doc-diff='0.0015' exclusivity='0.6558'>fisher</word>
+<word rank='4' count='1' prob='0.12500' cumulative='0.75000' docs='1' word-length='5.0000' coherence='0.0000' uniform_dist='0.4796' corpus_dist='0.7139' token-doc-diff='0.0015' exclusivity='0.9347'>links</word>
+<word rank='5' count='1' prob='0.12500' cumulative='0.87500' docs='1' word-length='9.0000' coherence='0.0000' uniform_dist='0.4796' corpus_dist='0.7139' token-doc-diff='0.0015' exclusivity='0.9347'>instructs</word>
+<word rank='6' count='1' prob='0.12500' cumulative='1.00000' docs='1' word-length='6.0000' coherence='0.0000' uniform_dist='0.4796' corpus_dist='0.5765' token-doc-diff='0.0015' exclusivity='0.6650'>format</word>
+</topic>
+<topic id='49' tokens='22.0000' document_entropy='0.3046' word-length='6.8000' coherence='-57.5496' uniform_dist='4.5046' corpus_dist='4.5096' eff_num_words='2.3725' token-doc-diff='0.1018' rank_1_docs='0.5000' allocation_ratio='0.0000' allocation_count='0.0000' exclusivity='0.6573'>
+<word rank='1' count='14' prob='0.63636' cumulative='0.63636' docs='2' word-length='13.0000' coherence='0.0000' uniform_dist='3.4772' corpus_dist='2.9055' token-doc-diff='0.0598' exclusivity='0.8436'>configuration</word>
+<word rank='2' count='1' prob='0.04545' cumulative='0.68182' docs='1' word-length='10.0000' coherence='-0.6915' uniform_dist='0.1284' corpus_dist='0.2136' token-doc-diff='0.0052' exclusivity='0.8470'>customizer</word>
+<word rank='3' count='1' prob='0.04545' cumulative='0.72727' docs='1' word-length='9.0000' coherence='-0.6915' uniform_dist='0.1284' corpus_dist='0.2136' token-doc-diff='0.0052' exclusivity='0.8470'>petclinic</word>
+<word rank='4' count='1' prob='0.04545' cumulative='0.77273' docs='1' word-length='7.0000' coherence='-0.6915' uniform_dist='0.1284' corpus_dist='0.2136' token-doc-diff='0.0052' exclusivity='0.8470'>enabled</word>
+<word rank='5' count='1' prob='0.04545' cumulative='0.81818' docs='1' word-length='7.0000' coherence='-0.6915' uniform_dist='0.1284' corpus_dist='0.2136' token-doc-diff='0.0052' exclusivity='0.8470'>mutable</word>
+<word rank='6' count='1' prob='0.04545' cumulative='0.86364' docs='1' word-length='5.0000' coherence='-0.6915' uniform_dist='0.1284' corpus_dist='0.2136' token-doc-diff='0.0052' exclusivity='0.8470'>limit</word>
+<word rank='7' count='1' prob='0.04545' cumulative='0.90909' docs='1' word-length='6.0000' coherence='-0.6915' uniform_dist='0.1284' corpus_dist='0.1821' token-doc-diff='0.0052' exclusivity='0.4194'>enable</word>
+<word rank='8' count='1' prob='0.04545' cumulative='0.95455' docs='1' word-length='7.0000' coherence='-0.6915' uniform_dist='0.1284' corpus_dist='0.2136' token-doc-diff='0.0052' exclusivity='0.8470'>enables</word>
+<word rank='9' count='1' prob='0.04545' cumulative='1.00000' docs='1' word-length='4.0000' coherence='-0.6915' uniform_dist='0.1284' corpus_dist='0.1404' token-doc-diff='0.0052' exclusivity='0.2284'>true</word>
+</topic>
+</model>
+
