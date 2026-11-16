@@ -4,6 +4,8 @@ import java.util.Map;
 import java.util.Map.Entry;
 
 import br.pucrio.organicref.concerns.extraction.topicmodeling.ConcernsInferencer;
+import br.pucrio.organicref.concerns.extraction.ConcernInferencer;
+import br.pucrio.organicref.concerns.extraction.llm.LlmConcernInferencer;
 import br.pucrio.organicref.concerns.extraction.topicmodeling.FeatureSequenceCreator;
 import br.pucrio.organicref.concerns.extraction.topicmodeling.TopicsModelCreator;
 import br.pucrio.organicref.model.entities.Concern;
@@ -19,21 +21,27 @@ public class ConcernsBuilder {
 	private FeatureSequenceCreator featureSequenceCreator;
 	private int numberOfConcerns;
 	private boolean skipMethods;
+	private String strategy;
 
 	public ConcernsBuilder(int numberOfConcerns, final boolean skipMethods) {
+		this(numberOfConcerns, skipMethods, "LDA");
+	}
+
+	public ConcernsBuilder(int numberOfConcerns, final boolean skipMethods, String strategy) {
 		this.numberOfConcerns = numberOfConcerns;
 		this.skipMethods = skipMethods;
+		this.strategy = strategy == null ? "LDA" : strategy;
 		this.featureSequenceCreator = new FeatureSequenceCreator();
 	}
 	
 	public void buildConcernsForProject(Project project) {
 		project.clearAllConcerns();
-		ConcernsInferencer inferencer = createInferencer(project);
+		ConcernInferencer inferencer = createInferencer(project);
 		project.setConcernsInferencer(inferencer);
 		buildElementConcerns(project, inferencer);
 	}
 
-	private void buildElementConcerns(Project project, ConcernsInferencer inferencer) {
+	private void buildElementConcerns(Project project, ConcernInferencer inferencer) {
 		for (Type type : project.getAllTypes()) {
 			Map<Concern, Double> map = inferencer.inferConcernsForElement(type.getTextualRepresentation());
 			for (Entry<Concern, Double> entry : map.entrySet()) {
@@ -44,9 +52,11 @@ public class ConcernsBuilder {
 				buildMethodsConcerns(inferencer, type);
 			}
 		}
+		// LLM concerns are discovered as elements are classified, so refresh the project catalog afterward.
+		project.setConcerns(inferencer.getAllConcerns());
 	}
 
-	public static void buildMethodsConcerns(ConcernsInferencer inferencer, Type type) {
+	public static void buildMethodsConcerns(ConcernInferencer inferencer, Type type) {
 		for (Element method : type.getMethods()) {
 			Map<Concern, Double> map = inferencer.inferConcernsForElement(method.getTextualRepresentation());
 			for (Entry<Concern, Double> entry : map.entrySet()) {
@@ -60,7 +70,10 @@ public class ConcernsBuilder {
 		}
 	}
 
-	private ConcernsInferencer createInferencer(Project project) {
+	private ConcernInferencer createInferencer(Project project) {
+		if ("LLM".equalsIgnoreCase(strategy)) {
+			return new LlmConcernInferencer(System.getenv("OPENAI_API_KEY"), System.getenv("OPENAI_MODEL"), System.getenv("OPENAI_BASE_URL"));
+		}
 		try {
 			InstanceList instances = featureSequenceCreator.createInstancesForData(project.getTypesAsDocumentsForConcerns());
 			TopicsModelCreator topicsModelCreator = new TopicsModelCreator(instances, numberOfConcerns, true);

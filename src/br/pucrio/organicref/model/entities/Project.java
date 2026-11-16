@@ -12,7 +12,7 @@ import java.util.Optional;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-import br.pucrio.organicref.concerns.extraction.topicmodeling.ConcernsInferencer;
+import br.pucrio.organicref.concerns.extraction.ConcernInferencer;
 import br.pucrio.organicref.context.Context;
 import br.pucrio.organicref.model.ProjectCloner;
 import br.pucrio.organicref.model.exceptions.InvalidStateException;
@@ -41,7 +41,7 @@ public class Project {
 
 	private ProjectSymptoms projectSymptoms;
 
-	private ConcernsInferencer concernsInferencer;
+	private ConcernInferencer concernsInferencer;
 
 	private List<Concern> concerns;
 	private Set<Type> typesChangedByRefactorings;
@@ -108,14 +108,14 @@ public class Project {
 		return documents;
 	}
 
-	public void setConcernsInferencer(ConcernsInferencer concernsInferencer) {
+	public void setConcernsInferencer(ConcernInferencer concernsInferencer) {
 		this.concernsInferencer = concernsInferencer;
 		if (concernsInferencer != null) {
 			this.concerns = concernsInferencer.getAllConcerns();
 		}
 	}
 	
-	public ConcernsInferencer getConcernsInferencer() {
+	public ConcernInferencer getConcernsInferencer() {
 		return this.concernsInferencer;
 	}
 	
@@ -171,6 +171,7 @@ public class Project {
 				updateMethodConcernsOfType(type);
 			}
 		}
+		this.concerns = concernsInferencer.getAllConcerns();
 	}
 
 	public void addRefactoredTypesByQualifiedNames(String typeQualifiedName)

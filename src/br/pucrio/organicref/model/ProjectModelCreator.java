@@ -23,7 +23,8 @@ public class ProjectModelCreator
     this.projectPath = projectPath;
     this.contextDetectionStrategy = contextDetectionStrategy;
     this.buildConcerns = buildConcerns;
-    concernsBuilder = new ConcernsBuilder(NUMBER_OF_CONCERNS, true);
+    concernsBuilder = new ConcernsBuilder(NUMBER_OF_CONCERNS, true,
+        br.pucrio.organicref.util.OrganicRefOptions.getInstance().getInferenceStrategy());
   }
 
   public ProjectModelCreator(final String projectPath)

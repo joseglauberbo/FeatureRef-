@@ -18,6 +18,7 @@ public class OrganicRefOptions
 	public static final String SOURCE_FOLDER = "source-folder";
 	public static final String OUTPUT_FOLDER = "output-folder";
 	public static final String CONCERNS_MODEL_DIR = "concerns-model-dir";
+	public static final String INFERENCE_STRATEGY = "inference-strategy";
 	public static final String OPTIMIZATION_ALGORITHM = "optimization-algorithm";
 	public static final String CONTEXT_STRATEGY = "context-strategy";
 	public static final String MAX_EVALUATIONS = "max-evaluations";
@@ -99,6 +100,11 @@ public class OrganicRefOptions
 				.argName("file")
 				.build();
 
+		Option inferenceStrategy = Option.builder("fi")
+				.longOpt(INFERENCE_STRATEGY)
+				.desc("Feature inference strategy: LDA (default) or LLM")
+				.hasArg().argName("strategy").build();
+
 		Option maxEvaluations = Option.builder("mev")
 				.longOpt(MAX_EVALUATIONS)
 				.desc("Maximum number of evaluations for the optimization algorithm")
@@ -127,6 +133,7 @@ public class OrganicRefOptions
 		options.addOption(selectedAlgorithm);
 		options.addOption(contextStrategy);
 		options.addOption(concernsModelFile);
+		options.addOption(inferenceStrategy);
 		options.addOption(maxEvaluations);
 		options.addOption(populationSize);
 		options.addOption(coolingSchedule);
@@ -134,6 +141,14 @@ public class OrganicRefOptions
 	
 	public String getValue(String key) {
 		return this.line.getOptionValue(key);
+	}
+
+	public String getInferenceStrategy() {
+		String strategy = getValue(INFERENCE_STRATEGY);
+		if (strategy == null || strategy.isBlank()) return "LDA";
+		if (!"LDA".equalsIgnoreCase(strategy) && !"LLM".equalsIgnoreCase(strategy))
+			throw new IllegalArgumentException("Invalid feature inference strategy: " + strategy + " (use LDA or LLM)");
+		return strategy.toUpperCase(java.util.Locale.ROOT);
 	}
 	
 	public void parse(String[] args) throws ParseException {

@@ -14,7 +14,7 @@ import cc.mallet.types.IDSorter;
 import cc.mallet.types.Instance;
 import cc.mallet.types.InstanceList;
 
-public class ConcernsInferencer
+public class ConcernsInferencer implements br.pucrio.organicref.concerns.extraction.ConcernInferencer
 {
 
   private InstanceList instances;

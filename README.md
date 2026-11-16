@@ -50,6 +50,7 @@ gradlew.bat run --args="-src \"C:\\work\\spring-petclinic\" -out \"results\\petc
 | `-cs`, `--cooling-schedule` | `EXPONENTIAL` (default); `EXPONENTIAL`, `LINEAR`, `BOLTZ` | Cooling schedule for `SA`. |
 | `-tm`, `--topic-model-mode` | Flag | Build and save a topic model for the source project, without running recommendations. |
 | `-cmf`, `--concerns-model-dir` | Optional directory | Reuse `topics-model.gz` and `inferencer.mallet` from an existing topic model directory. |
+| `-fi`, `--inference-strategy` | `LDA` (default) or `LLM` | Strategy used to infer concerns for Java elements during recommendation runs. |
 | `-am`, `--analysis-mode` | `SP` or `MP` | Analyze previously generated JSON results: `SP` for one result tree, `MP` for each project folder under `-src`. |
 
 ### Recommendation algorithms
@@ -96,6 +97,37 @@ The output includes `topics-model.gz`, `inferencer.mallet`, `top-words.txt`, and
 ```sh
 ./gradlew run --args='-src /path/to/java-project -out results/reuse-model -alg BASELINE -cmf results/topic-model'
 ```
+
+### Feature inference strategies
+
+The `-fi` option selects how the application associates functional concerns with classes and methods. Both strategies produce the same domain output (`element → concern + probability`), which is used by concern-based refactoring generators. Structural metrics are calculated independently and continue to guide smell detection and candidate fitness; they are not inputs to semantic inference.
+
+- **LDA** (default): builds a probabilistic topic model from code tokens. Each topic is represented by words, and each element receives a probability distribution over topics. It works locally and supports the saved topic-model workflow described above.
+- **LLM**: sends each element's textual representation to an OpenAI-compatible Chat Completions endpoint. The model returns one to three short concern labels and confidence values; the application normalizes their sum, maps labels to shared `Concern` objects, and caches repeated element text during the run. The first call requires an API key. LLM inference is an external network call and may incur provider charges; one request is made for each distinct element text.
+
+Set the key outside the command line so it is not written into shell history. `OPENAI_MODEL` defaults to `gpt-4o-mini`; `OPENAI_BASE_URL` defaults to `https://api.openai.com/v1` and can point to a compatible endpoint.
+
+```sh
+# Linux/macOS
+export OPENAI_API_KEY="your-key"
+export OPENAI_MODEL="gpt-4o-mini" # optional
+./gradlew run --args='-src /path/to/java-project -out results/run-llm -alg BASELINE -fi LLM'
+```
+
+```powershell
+# Windows PowerShell
+$env:OPENAI_API_KEY = "your-key"
+$env:OPENAI_MODEL = "gpt-4o-mini" # optional
+gradlew.bat run --args="-src C:\work\java-project -out results\run-llm -alg BASELINE -fi LLM"
+```
+
+For a compatible provider, set its API base URL before running:
+
+```sh
+export OPENAI_BASE_URL="https://provider.example/v1"
+```
+
+`-cmf` reuses a MALLET LDA model and therefore applies to LDA runs, not LLM runs. `-tm` builds and saves an LDA topic model; it does not invoke the LLM.
 
 ### Analyze saved results
 
